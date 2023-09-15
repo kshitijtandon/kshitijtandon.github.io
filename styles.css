@@ -8,7 +8,7 @@ body {
     background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0.5); /* 50% transparent black background color */
+    background-color: rgba(0, 0, 0, 0.9); /* 50% transparent black background color */
     font-family: Arial, sans-serif;
     color: #000; /* Initial text color (black) */
 }
@@ -17,7 +17,7 @@ body {
 header {    background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0.5); /* 50% transparent black background color */
+    background-color: rgba(0, 0, 0, 0.9); /* 50% transparent black background color */
     text-align: center;
     padding: 2rem;
     color: #fff; /* Header text color (white) */
