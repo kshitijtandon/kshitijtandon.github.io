@@ -1,31 +1,22 @@
 /* Reset some default styles */
-
 body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
 }
 
+/* Apply a black background color and black text color */
 body {
-    background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
+    background-image: url('coral_reef.jpg'); /* Replace 'coral_reef.jpg' with your image file path */
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.9); /* 50% transparent black background color */
     font-family: Arial, sans-serif;
-    color: #000; /* Initial text color (black) */
-}
-/* Add this CSS class to hide the text content by default */
-.hidden-text {
-    display: none;
-}
-
-/* Add this CSS class to display text content when a section is active */
-.hidden-text.active {
-    display: block;
+    color: #fff; /* Initial text color (white) */
 }
 
 /* Style the header */
-header {    
-	background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
+header {
+    background-image: url('coral_reef.jpg'); /* Replace 'coral_reef.jpg' with your image file path */
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.9); /* 50% transparent black background color */
@@ -36,7 +27,7 @@ header {
 
 /* Style the header text */
 header h1 {
-    color: #fff; /* Header text color (black) */
+    color: #fff; /* Header text color (white) */
 }
 
 /* Style the navigation menu */
@@ -86,58 +77,4 @@ section {
 
 /* Unique transition for even sections */
 section:nth-child(even) {
-    transform: translateX(-100%);
-    opacity: 0;
-    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, background-color 0.3s ease-in-out;
-    background-color: #2ecc71; /* Background color for even sections */
-}
-
-/* Unique transition for odd sections */
-section:nth-child(odd) {
-    transform: translateY(-100%);
-    opacity: 0;
-    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, color 0.3s ease-in-out;
-    color: #e74c3c; /* Text color for odd sections */
-}
-
-
-/* Apply styles when a section is in the viewport */
-section.in-viewport {
-    transform: translateX(0);
-    opacity: 1;
-}
-
-/* Style section headings */
-section h2 {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-    color: #007acc; /* Section heading color */
-}
-
-/* Style section paragraphs */
-section p {
-    font-size: 1.2rem;
-    line-height: 1.5;
-}
-
-/* Add this CSS for a sticky footer */
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
-
-.page-content {
-    flex: 1;
-}
-
-/* Style the footer */
-footer {
-    background-color: #007acc; /* Footer background color */
-    text-align: center;
-    padding: 1rem;
-    color: #fff; /* Footer text color (white) */
-}
-html {
-    scroll-behavior: smooth;
-}
+    transform: translateX
