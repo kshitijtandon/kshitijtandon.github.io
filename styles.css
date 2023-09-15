@@ -13,7 +13,7 @@ body {
 
 /* Style the header */
 header {
-    background-color: #007acc; /* Header background color (you can adjust this color if needed) */
+    background-color: #007acc; /* Header background color */
     text-align: center;
     padding: 2rem;
 }
@@ -25,7 +25,7 @@ header h1 {
 
 /* Style the navigation menu */
 nav ul {
-    background-color: #007acc; /* Navigation menu background color (you can adjust this color if needed) */
+    background-color: #007acc; /* Navigation menu background color */
     list-style: none;
     text-align: center;
     padding: 1rem;
@@ -44,19 +44,41 @@ nav a {
 
 /* Style the content sections */
 section {
-    background-color: #fff; /* Section background color (you can adjust this color if needed) */
     padding: 2rem;
     text-align: left;
     margin: 20px;
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add a shadow for sections */
+    overflow: hidden; /* Hide content that overflows */
+}
+
+/* Unique transition for even sections */
+section:nth-child(even) {
+    transform: translateX(-100%);
+    opacity: 0;
+    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, background-color 0.3s ease-in-out;
+    background-color: #2ecc71; /* Background color for even sections */
+}
+
+/* Unique transition for odd sections */
+section:nth-child(odd) {
+    transform: translateY(-100%);
+    opacity: 0;
+    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, color 0.3s ease-in-out;
+    color: #e74c3c; /* Text color for odd sections */
+}
+
+/* Apply styles when a section is in the viewport */
+section.in-viewport {
+    transform: translateX(0);
+    opacity: 1;
 }
 
 /* Style section headings */
 section h2 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
-    color: #007acc; /* Section heading color (you can adjust this color if needed) */
+    color: #007acc; /* Section heading color */
 }
 
 /* Style section paragraphs */
@@ -67,7 +89,7 @@ section p {
 
 /* Style the footer */
 footer {
-    background-color: #007acc; /* Footer background color (you can adjust this color if needed) */
+    background-color: #007acc; /* Footer background color */
     text-align: center;
     padding: 1rem;
     color: #fff; /* Footer text color */
