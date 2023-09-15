@@ -4,11 +4,11 @@ body, h1, h2, p, ul, li {
     padding: 0;
 }
 
-/* Apply a black background color and white text color */
+/* Apply a black background color and black text color */
 body {
     background-color: #000; /* Black background color */
     font-family: Arial, sans-serif;
-    color: #fff; /* White text color */
+    color: #000; /* Black text color */
 }
 
 /* Style the header */
@@ -20,7 +20,7 @@ header {
 
 /* Style the header text */
 header h1 {
-    color: #fff; /* Header text color */
+    color: #fff; /* Header text color (white) */
 }
 
 /* Style the navigation menu */
@@ -38,7 +38,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #fff; /* Navigation link color */
+    color: #fff; /* Navigation link color (white) */
     font-weight: bold;
 }
 
@@ -92,5 +92,5 @@ footer {
     background-color: #007acc; /* Footer background color */
     text-align: center;
     padding: 1rem;
-    color: #fff; /* Footer text color */
+    color: #fff; /* Footer text color (white) */
 }
