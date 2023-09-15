@@ -5,41 +5,38 @@ body, h1, h2, p, ul, li {
 }
 
 body {
-    font-family: Arial, sans-serif;
-    color: #000;
-    background-image: url('coral_reef.jpg');
+    background-image: url('coral_reef.jpg'); /* Replace with your image path */
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0.9);
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.9); /* 50% transparent black background color */
+    font-family: Arial, sans-serif;
+    color: #fff; /* Initial text color (white) */
 }
 
-.page-content {
-    flex: 1;
-}
-
-footer {
-    background-color: #007acc; /* Footer background color */
-    text-align: center;
-    padding: 1rem;
-    color: #fff; /* Footer text color (white) */
-    position: sticky;
-    bottom: 0;
+/* Add this CSS class to hide the text content by default */
+.hidden-text {
+    display: none;
 }
 
 /* Style the header */
 header {
-    background-color: rgba(0, 0, 0, 0.9);
+    background-image: url('coral_reef.jpg'); /* Replace with your image path */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.9); /* 50% transparent black background color */
     text-align: center;
     padding: 2rem;
-    color: #fff;
+    color: #fff; /* Header text color (white) */
+}
+
+/* Style the header text */
+header h1 {
+    color: #fff; /* Header text color (black) */
 }
 
 /* Style the navigation menu */
 nav ul {
-    background-color: #000;
+    background-color: #000; /* Navigation menu background color */
     list-style: none;
     text-align: center;
     padding: 1rem;
@@ -52,46 +49,76 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #fff;
+    color: #fff; /* Navigation link color (white) */
     font-weight: bold;
 }
 
 /* Style the content sections */
-section {
+main {
     padding: 2rem;
     text-align: left;
     margin: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-    overflow: hidden;
-    background-color: #fff;
-    color: #000;
-    max-height: 0;
-    transition: max-height 0.3s ease-in-out;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Add a shadow for sections */
+    overflow: hidden; /* Hide content that overflows */
 }
 
 /* Unique transition for even sections */
 section:nth-child(even) {
-    background-color: #2ecc71;
-    color: #fff;
+    transform: translateX(-100%);
+    opacity: 0;
+    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, background-color 0.3s ease-in-out;
+    background-color: #2ecc71; /* Background color for even sections */
 }
 
 /* Unique transition for odd sections */
 section:nth-child(odd) {
-    background-color: #e74c3c;
-    color: #fff;
+    transform: translateY(-100%);
+    opacity: 0;
+    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, color 0.3s ease-in-out;
+    color: #e74c3c; /* Text color for odd sections */
+}
+
+/* Apply styles when a section is in the viewport */
+section.active {
+    transform: translateX(0);
+    opacity: 1;
 }
 
 /* Style section headings */
 section h2 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
-    color: #007acc;
-    cursor: pointer;
+    color: #007acc; /* Section heading color */
 }
 
 /* Style section paragraphs */
 section p {
     font-size: 1.2rem;
     line-height: 1.5;
+}
+
+/* Add this CSS for a sticky footer */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.page-content {
+    flex: 1;
+}
+
+/* Style the footer */
+footer {
+    background-color: #007acc; /* Footer background color */
+    text-align: center;
+    padding: 1rem;
+    color: #fff; /* Footer text color (white) */
+    position: sticky;
+    bottom: 0;
+}
+
+html {
+    scroll-behavior: smooth;
 }
