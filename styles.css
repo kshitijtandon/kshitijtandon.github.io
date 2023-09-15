@@ -12,19 +12,18 @@ body {
     animation: colorShade 6s infinite alternate; /* Animation with 6-second duration, infinite repeat, and alternate direction */
 }
 
-/* Define a keyframes animation for color transition */
 @keyframes colorShade {
     0% {
-        background-color: #fff; /* Start with black background */
-        color: #000; /* Start with white text color */
+        background-color: #000; /* Start with black background */
+        color: #fff; /* Start with white text color */
     }
     50% {
-        background-color: #000; /* Transition to white background */
-        color: #fff; /* Transition to black text color */
+        background-color: #fff; /* Transition to white background */
+        color: #000; /* Transition to black text color */
     }
     100% {
-        background-color: #fff; /* Return to black background */
-        color: #000; /* Return to white text color */
+        background-color: #000; /* Return to black background */
+        color: #fff; /* Return to white text color */
     }
 }
 /* Style the header */
