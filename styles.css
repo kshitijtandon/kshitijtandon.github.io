@@ -20,7 +20,7 @@ header {
 
 /* Style the header text */
 header h1 {
-    color: #fff; /* Header text color (white) */
+    color: #000; /* Header text color (black) */
 }
 
 /* Style the navigation menu */
