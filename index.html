@@ -50,6 +50,25 @@
         <h2>Get in touch</h2>
         <p>If you have questions or want to get involved, please contact us...</p>
     </section>
+	<script>
+	    // Function to handle smooth scrolling when a navigation link is clicked
+	    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+	        anchor.addEventListener('click', function (e) {
+	            e.preventDefault();
+
+	            const targetId = this.getAttribute('href').substring(1); // Get the target section's id
+	            const targetElement = document.getElementById(targetId);
+
+	            if (targetElement) {
+	                window.scrollTo({
+	                    top: targetElement.offsetTop,
+	                    behavior: 'smooth'
+	                });
+	            }
+	        });
+	    });
+	</script>
+	
     <footer>
         <p>&copy; 2023 Kshitij Tandon</p>
     </footer>
