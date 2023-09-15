@@ -14,8 +14,8 @@
         <ul>
             <li><a href="#about">About me</a></li>
             <li><a href="#projects">Projects</a></li>
-            <li><a href="#scientific-publications">Publications</a></li>
-            <li><a href="#resume">CV</a></li>
+            <li><a href="#publications">Publications</a></li>
+            <li><a href="#cv">CV</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
@@ -27,11 +27,11 @@
         <h2>Projects</h2>
         <p>Discover some of the fascinating creatures that inhabit coral reefs...</p>
     </section>
-    <section id="scientific-publications" class="expandable-section">
+    <section id="publications" class="expandable-section">
         <h2>Publications</h2>
         <p>Explore the efforts being made to protect coral reefs...</p>
     </section>
-    <section id="resume" class="expandable-section">
+    <section id="cv" class="expandable-section">
         <h2>CV</h2>
         <p>If you have questions or want to get involved, please contact us...</p>
     </section>
@@ -43,34 +43,6 @@
         <p>&copy; 2023 Kshitij Tandon</p>
         <p>Image courtesy of: <a href="https://www.pexels.com/photo/scenic-photo-of-coral-reef-3157890/" target="_blank">Francesco Ungaro</a></p>
     </footer>
-    <script>
-        // Function to handle smooth scrolling when a navigation link is clicked
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function (e) {
-                e.preventDefault();
-
-                const targetId = this.getAttribute('href').substring(1); // Get the target section's id
-                const targetElement = document.getElementById(targetId);
-
-                if (targetElement) {
-                    window.scrollTo({
-                        top: targetElement.offsetTop,
-                        behavior: 'smooth'
-                    });
-                }
-            });
-        });
-
-        // Function to toggle active section when its title is clicked
-        document.querySelectorAll('h2').forEach(title => {
-            title.addEventListener('click', function () {
-                const section = this.parentElement;
-                const sections = document.querySelectorAll('.expandable-section');
-
-                sections.forEach(s => s.classList.remove('active'));
-                section.classList.add('active');
-            });
-        });
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
