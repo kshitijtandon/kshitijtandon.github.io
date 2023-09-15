@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <title>Kshitij Tandon, Ph.D.</title>
-	<style>
+    <style>
         /* Add a CSS class to hide the text by default */
         .hidden-text {
             display: none;
@@ -20,13 +20,14 @@
         <ul>
             <li><a href="#about">About me</a></li>
             <li><a href="#projects">Projects</a></li>
-            <li><a href="#scientific publications">Publications</a></li>
+            <li><a href="#scientific-publications">Publications</a></li>
             <li><a href="#resume">CV</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
     <section id="about" class="expandable-section">
-        <h2>About me</h2>
+        <h2><a href="#about">About me</a></h2>
+        <!-- Add a button to toggle the visibility of the text -->
         <div class="hidden-text">
             <p>Hi!!! There and welcome to my personal website. </p>
             <p>I am a Postdoctoral Research Fellow at the <a href="https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon">School of BioScience, University of Melbourne</a>,
@@ -39,49 +40,44 @@
         </div>
     </section>
     <section id="projects" class="expandable-section">
-        <h2>Projects</h2>
+        <h2><a href="#projects">Projects</a></h2>
         <div class="hidden-text">
             <p>Discover some of the fascinating creatures that inhabit coral reefs...</p>
         </div>
     </section>
-    <section id="scientific publications" class="expandable-section">
-        <h2>Publications</h2>
+    <section id="scientific-publications" class="expandable-section">
+        <h2><a href="#scientific-publications">Publications</a></h2>
         <div class="hidden-text">
             <p>Explore the efforts being made to protect coral reefs...</p>
         </div>
     </section>
     <section id="resume" class="expandable-section">
-        <h2>CV</h2>
+        <h2><a href="#resume">CV</a></h2>
         <div class="hidden-text">
             <p>If you have questions or want to get involved, please contact us...</p>
         </div>
     </section>
     <section id="contact" class="expandable-section">
-        <h2>Contact</h2>
+        <h2><a href="#contact">Contact</a></h2>
         <div class="hidden-text">
             <p>If you have questions or want to get involved, please contact us...</p>
         </div>
     </section>
-	<script>
-	    // Function to toggle the visibility of the text when a section link is clicked
-	    document.querySelectorAll('nav a').forEach(link => {
-	        link.addEventListener('click', function (e) {
-	            e.preventDefault();
-	            const targetId = this.getAttribute('href').substring(1);
-	            const targetSection = document.getElementById(targetId);
+    <script>
+        // Function to toggle the visibility of the text when a section is clicked
+        const sections = document.querySelectorAll('.expandable-section');
 
-	            // Hide all sections
-	            document.querySelectorAll('.expandable-section').forEach(section => {
-	                section.style.display = 'none';
-	            });
+        sections.forEach(section => {
+            const link = section.querySelector('a');
+            const text = section.querySelector('.hidden-text');
 
-	            // Display the clicked section
-	            if (targetSection) {
-	                targetSection.style.display = 'block';
-	            }
-	        });
-	    });
-	</script>
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                sections.forEach(s => s.classList.remove('active'));
+                section.classList.add('active');
+            });
+        });
+    </script>
     <footer>
         <p>&copy; 2023 Kshitij Tandon</p>
         <p>Image courtesy of: <a href="https://www.pexels.com/photo/scenic-photo-of-coral-reef-3157890/" target="_blank">Francesco Ungaro</a></p>
