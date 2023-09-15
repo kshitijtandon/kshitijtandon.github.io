@@ -17,6 +17,12 @@ body {
 .hidden-text {
     display: none;
 }
+
+/* Add this CSS class to display text content when a section is active */
+.hidden-text.active {
+    display: block;
+}
+
 /* Style the header */
 header {    
 	background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
