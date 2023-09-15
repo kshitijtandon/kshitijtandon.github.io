@@ -81,6 +81,26 @@
             <p>If you have questions or want to get involved, please contact us...</p>
         </div>
     </section>
+	<script>
+	    // Function to toggle the visibility of the text when a section link is clicked
+	    document.querySelectorAll('nav a').forEach(link => {
+	        link.addEventListener('click', function (e) {
+	            e.preventDefault();
+	            const targetId = this.getAttribute('href').substring(1);
+	            const targetSection = document.getElementById(targetId);
+
+	            // Hide all sections
+	            document.querySelectorAll('.expandable-section').forEach(section => {
+	                section.style.display = 'none';
+	            });
+
+	            // Display the clicked section
+	            if (targetSection) {
+	                targetSection.style.display = 'block';
+	            }
+	        });
+	    });
+	</script>
     <footer>
         <p>&copy; 2023 Kshitij Tandon</p>
         <p>Image courtesy of: <a href="https://www.pexels.com/photo/scenic-photo-of-coral-reef-3157890/" target="_blank">Francesco Ungaro</a></p>
