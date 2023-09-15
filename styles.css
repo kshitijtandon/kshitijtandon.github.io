@@ -6,11 +6,27 @@ body, h1, h2, p, ul, li {
 
 /* Apply a black background color and black text color */
 body {
-    background-color: #fff; /* Black background color */
+    background-color: #000; /* Initial background color (black) */
     font-family: Arial, sans-serif;
-    color: #fff; /* Black text color */
+    color: #fff; /* Initial text color (white) */
+    animation: colorShade 6s infinite alternate; /* Animation with 6-second duration, infinite repeat, and alternate direction */
 }
 
+/* Define a keyframes animation for color transition */
+@keyframes colorShade {
+    0% {
+        background-color: #000; /* Start with black background */
+        color: #fff; /* Start with white text color */
+    }
+    50% {
+        background-color: #fff; /* Transition to white background */
+        color: #000; /* Transition to black text color */
+    }
+    100% {
+        background-color: #000; /* Return to black background */
+        color: #fff; /* Return to white text color */
+    }
+}
 /* Style the header */
 header {
     background-color: #c6dba7; /* Header background color */
