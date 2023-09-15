@@ -6,7 +6,7 @@ body, h1, h2, p, ul, li {
 
 /* Apply a black background color and black text color */
 body {
-    background-color: #000; /* Black background color */
+    background-color: #fff; /* Black background color */
     font-family: Arial, sans-serif;
     color: #fff; /* Black text color */
 }
