@@ -8,7 +8,7 @@ body, h1, h2, p, ul, li {
 body {
     background-color: #000; /* Black background color */
     font-family: Arial, sans-serif;
-    color: #000; /* Black text color */
+    color: #fff; /* Black text color */
 }
 
 /* Style the header */
