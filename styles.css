@@ -14,10 +14,13 @@ body {
 }
 
 /* Style the header */
-header {
-    background-color: #c6dba7; /* Header background color */
+header {    background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5); /* 50% transparent black background color */
     text-align: center;
     padding: 2rem;
+    color: #fff; /* Header text color (white) */
 }
 
 /* Style the header text */
