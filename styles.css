@@ -52,6 +52,22 @@ section {
     overflow: hidden; /* Hide content that overflows */
 }
 
+#about {
+    background-color: #000; /* Black background color */
+    color: #fff; /* White text color */
+}
+
+/* Style the links within the "About Me" section */
+#about a {
+    color: #007acc; /* Blue hyperlink text color */
+    text-decoration: underline; /* Add underline to links */
+}
+
+/* Remove underlines for links on hover */
+#about a:hover {
+    text-decoration: none;
+}
+
 /* Unique transition for even sections */
 section:nth-child(even) {
     transform: translateX(-100%);
@@ -93,4 +109,7 @@ footer {
     text-align: center;
     padding: 1rem;
     color: #fff; /* Footer text color (white) */
+}
+html {
+    scroll-behavior: smooth;
 }
