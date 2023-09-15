@@ -20,8 +20,8 @@
         </ul>
     </nav>
     <section id="about" class="expandable-section">
-        <h2><a href="#about">About me</a></h2>
-        <!-- Add a button to toggle the visibility of the text -->
+        <h2 class="section-title"><a href="#about">About me</a></h2>
+        <!-- Content to be displayed when section is expanded -->
         <div class="hidden-text">
             <p>Hi!!! There and welcome to my personal website. </p>
             <p>I am a Postdoctoral Research Fellow at the <a href="https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon">School of BioScience, University of Melbourne</a>,
@@ -34,41 +34,38 @@
         </div>
     </section>
     <section id="projects" class="expandable-section">
-        <h2><a href="#projects">Projects</a></h2>
+        <h2 class="section-title"><a href="#projects">Projects</a></h2>
         <div class="hidden-text">
             <p>Discover some of the fascinating creatures that inhabit coral reefs...</p>
         </div>
     </section>
     <section id="scientific-publications" class="expandable-section">
-        <h2><a href="#scientific-publications">Publications</a></h2>
+        <h2 class="section-title"><a href="#scientific-publications">Publications</a></h2>
         <div class="hidden-text">
             <p>Explore the efforts being made to protect coral reefs...</p>
         </div>
     </section>
     <section id="resume" class="expandable-section">
-        <h2><a href="#resume">CV</a></h2>
+        <h2 class="section-title"><a href="#resume">CV</a></h2>
         <div class="hidden-text">
             <p>If you have questions or want to get involved, please contact us...</p>
         </div>
     </section>
     <section id="contact" class="expandable-section">
-        <h2><a href="#contact">Contact</a></h2>
+        <h2 class="section-title"><a href="#contact">Contact</a></h2>
         <div class="hidden-text">
             <p>If you have questions or want to get involved, please contact us...</p>
         </div>
     </section>
     <script>
-        // Function to toggle the visibility of the text when a section is clicked
-        const sections = document.querySelectorAll('.expandable-section');
+        // Function to toggle the visibility of the section's content when the section title is clicked
+        const sectionTitles = document.querySelectorAll('.section-title');
 
-        sections.forEach(section => {
-            const link = section.querySelector('a');
-            const text = section.querySelector('.hidden-text');
-
-            link.addEventListener('click', (e) => {
-                e.preventDefault();
-                sections.forEach(s => s.classList.remove('active'));
-                section.classList.add('active');
+        sectionTitles.forEach(title => {
+            title.addEventListener('click', () => {
+                const section = title.parentElement;
+                const text = section.querySelector('.hidden-text');
+                text.classList.toggle('visible');
             });
         });
     </script>
