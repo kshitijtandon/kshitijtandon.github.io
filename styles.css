@@ -1,4 +1,5 @@
 /* Reset some default styles */
+
 body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
@@ -12,7 +13,10 @@ body {
     font-family: Arial, sans-serif;
     color: #000; /* Initial text color (black) */
 }
-
+/* Add this CSS class to hide the text content by default */
+.hidden-text {
+    display: none;
+}
 /* Style the header */
 header {    
 	background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
