@@ -9,7 +9,6 @@ body {
     background-color: #fff; /* Initial background color (black) */
     font-family: Arial, sans-serif;
     color: #000; /* Initial text color (white) */
-    animation: colorShade 6s infinite alternate; /* Animation with 6-second duration, infinite repeat, and alternate direction */
 }
 
 body {
