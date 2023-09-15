@@ -20,6 +20,15 @@ body {
     flex: 1;
 }
 
+footer {
+    background-color: #007acc; /* Footer background color */
+    text-align: center;
+    padding: 1rem;
+    color: #fff; /* Footer text color (white) */
+    position: sticky;
+    bottom: 0;
+}
+
 /* Style the header */
 header {
     background-color: rgba(0, 0, 0, 0.9);

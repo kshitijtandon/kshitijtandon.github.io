@@ -1,17 +1,29 @@
-// Function to toggle the visibility of the text when a section heading is clicked
-document.querySelectorAll('h2').forEach(title => {
-    title.addEventListener('click', function () {
-        const section = this.parentElement;
-        const isOpen = section.style.maxHeight === 'none' || !section.style.maxHeight;
-
-        // Close all sections
-        document.querySelectorAll('.expandable-section').forEach(s => {
-            s.style.maxHeight = '0';
+// JavaScript to control section visibility and simulate page transitions
+document.addEventListener('DOMContentLoaded', function () {
+    const sections = document.querySelectorAll('.page-section');
+    
+    sections.forEach(section => {
+        section.style.display = 'none';
+    });
+    
+    // Function to navigate to a section
+    function navigateToSection(sectionId) {
+        sections.forEach(section => {
+            section.style.display = 'none';
         });
-
-        // Open the clicked section if it was closed, otherwise close it
-        if (isOpen) {
-            section.style.maxHeight = section.scrollHeight + 'px';
+        const targetSection = document.getElementById(sectionId);
+        if (targetSection) {
+            targetSection.style.display = 'block';
         }
+    }
+    
+    // Event listener for navigation links
+    const navLinks = document.querySelectorAll('nav a');
+    navLinks.forEach(link => {
+        link.addEventListener('click', function (e) {
+            e.preventDefault();
+            const sectionId = this.getAttribute('href').substring(1);
+            navigateToSection(sectionId);
+        });
     });
 });

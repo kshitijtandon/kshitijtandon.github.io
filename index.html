@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>Kshitij Tandon, Ph.D.</title>
+    <!-- Your meta tags, CSS links, and title here -->
 </head>
 <body>
     <header>
@@ -19,60 +16,28 @@
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
-    <section id="about" class="expandable-section">
-        <h2>About me</h2>
-        <!-- Add a button to toggle the visibility of the text -->
-        <div class="hidden-text">
-            <p>Hi!!! There and welcome to my personal website. </p>
-            <p>I am a Postdoctoral Research Fellow at the <a href="https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon">School of BioScience, University of Melbourne</a>,
-                working on understanding the coral microbiome dynamics</p>
-            <p>My passion for microbial ecology found its true expression during my doctoral studies, which spanned from 2015 to 2020. During this period, I pursued my Ph.D. in
-                Bioinformatics at Academia Sinica in Taiwan. It was within this esteemed institution that I had the privilege to delve deeply into the study of microbial communities 
-                inhabiting coral reefs and freshwater lakes. My research during this time not only expanded the boundaries of my knowledge but also underscored the critical importance of
-                these microbial ecosystems in sustaining our planet's ecological balance....</p>
-            <p>Feel free to explore my website to learn more about coral reefs and the incredible marine life that inhabits them.</p>
-        </div>
-    </section>
-    <section id="projects" class="expandable-section">
-        <h2>Projects</h2>
-        <div class="hidden-text">
-            <p>Discover some of the fascinating creatures that inhabit coral reefs...</p>
-        </div>
-    </section>
-    <section id="scientific-publications" class="expandable-section">
-        <h2>Publications</h2>
-        <div class="hidden-text">
-            <p>Explore the efforts being made to protect coral reefs...</p>
-        </div>
-    </section>
-    <section id="resume" class="expandable-section">
-        <h2>CV</h2>
-        <div class="hidden-text">
-            <p>If you have questions or want to get involved, please contact us...</p>
-        </div>
-    </section>
-    <section id="contact" class="expandable-section">
-        <h2>Contact</h2>
-        <div class="hidden-text">
-            <p>If you have questions or want to get involved, please contact us...</p>
-        </div>
-    </section>
-    <script>
-        // Function to toggle the visibility of the text when a section is clicked
-        const sections = document.querySelectorAll('.expandable-section');
+	<section id="about" class="page-section">
+	    <h2>About me</h2>
+	    <div class="section-content">
+	        <p>Hi, I am Kshitij Tandon. Welcome to my personal website.</p>
+	        <!-- Other content related to the "About me" section -->
+	    </div>
+	</section>
 
-        sections.forEach(section => {
-            const text = section.querySelector('.hidden-text');
+	<!-- Update the "Publications" section content -->
+	<section id="publications" class="page-section">
+	    <h2>Publications</h2>
+	    <div class="section-content">
+	        <p>I have 20 publications.</p>
+	        <!-- Other content related to the "Publications" section -->
+	    </div>
+	</section>
 
-            section.addEventListener('click', () => {
-                sections.forEach(s => s.classList.remove('active'));
-                section.classList.add('active');
-            });
-        });
-    </script>
     <footer>
         <p>&copy; 2023 Kshitij Tandon</p>
         <p>Image courtesy of: <a href="https://www.pexels.com/photo/scenic-photo-of-coral-reef-3157890/" target="_blank">Francesco Ungaro</a></p>
     </footer>
+
+    <script src="script.js"></script> <!-- Include your JavaScript file -->
 </body>
 </html>
