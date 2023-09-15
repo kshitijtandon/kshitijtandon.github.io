@@ -22,7 +22,7 @@
     <main>
         <section id="about" class="expandable-section">
             <h2><a href="#about">About Me</a></h2>
-            <!-- Add a button to toggle the visibility of the text -->
+            <!-- Text content is initially hidden -->
             <div class="hidden-text">
                 <p>Hi, I'm Kshitij Tandon, a Postdoctoral Research Fellow at the University of Melbourne's School of BioScience.</p>
                 <p>My research focuses on understanding the dynamics of coral microbiomes.</p>
@@ -31,24 +31,28 @@
         </section>
         <section id="projects" class="expandable-section">
             <h2><a href="#projects">Projects</a></h2>
+            <!-- Text content is initially hidden -->
             <div class="hidden-text">
                 <p>Explore my projects related to coral reef ecosystems.</p>
             </div>
         </section>
         <section id="publications" class="expandable-section">
             <h2><a href="#publications">Publications</a></h2>
+            <!-- Text content is initially hidden -->
             <div class="hidden-text">
                 <p>I have 20 publications related to coral reefs and microbial ecosystems.</p>
             </div>
         </section>
         <section id="cv" class="expandable-section">
             <h2><a href="#cv">CV</a></h2>
+            <!-- Text content is initially hidden -->
             <div class="hidden-text">
                 <p>If you have any questions or want to collaborate, please feel free to contact me.</p>
             </div>
         </section>
         <section id="contact" class="expandable-section">
             <h2><a href="#contact">Contact</a></h2>
+            <!-- Text content is initially hidden -->
             <div class="hidden-text">
                 <p>If you'd like to get in touch, don't hesitate to reach out. I'm here to connect and collaborate.</p>
             </div>
@@ -59,17 +63,15 @@
         <p>Image courtesy of: <a href="https://www.pexels.com/photo/scenic-photo-of-coral-reef-3157890/" target="_blank">Francesco Ungaro</a></p>
     </footer>
     <script>
-        // Function to toggle the visibility of the text when a section is clicked
+        // Function to toggle the visibility of the text when the section heading is clicked
         const sections = document.querySelectorAll('.expandable-section');
 
         sections.forEach(section => {
-            const link = section.querySelector('a');
+            const heading = section.querySelector('h2');
             const text = section.querySelector('.hidden-text');
 
-            link.addEventListener('click', (e) => {
-                e.preventDefault();
-                sections.forEach(s => s.classList.remove('active'));
-                section.classList.add('active');
+            heading.addEventListener('click', () => {
+                text.classList.toggle('show-text');
             });
         });
     </script>

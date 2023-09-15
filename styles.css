@@ -18,6 +18,12 @@ body {
     display: none;
 }
 
+/* Add this CSS class to show the text content when toggled */
+.show-text {
+    display: block;
+}
+
+
 /* Style the header */
 header {
     background-image: url('coral_reef.jpg'); /* Replace with your image path */
