@@ -6,12 +6,14 @@
     <link rel="stylesheet" href="styles.css">
     <title>Kshitij Tandon, Ph.D.</title>
     <style>
-        /* Add a CSS class to hide the text by default */
-        .hidden-text {
+        /* Add CSS to initially hide sections except for the first one */
+        .expandable-section {
             display: none;
         }
+        .expandable-section:first-child {
+            display: block;
+        }
     </style>
-	
 </head>
 <body>
     <header>
@@ -26,59 +28,58 @@
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
-    <section id="about">
-        <h2><a href="#about">About me</a></h2>
-        <!-- Add a button to toggle the visibility of the text -->
+    <section id="about" class="expandable-section">
+        <h2>About me</h2>
         <div class="hidden-text">
             <p>Hi!!! There and welcome to my personal website. </p>
             <p>I am a Postdoctoral Research Fellow at the <a href="https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon">School of BioScience, University of Melbourne</a>,
-				working on understanding the coral microbiome dynamics</p>
+                working on understanding the coral microbiome dynamics</p>
             <p>My passion for microbial ecology found its true expression during my doctoral studies, which spanned from 2015 to 2020. During this period, I pursued my Ph.D. in
-				Bioinformatics at Academia Sinica in Taiwan. It was within this esteemed institution that I had the privilege to delve deeply into the study of microbial communities 
-				inhabiting coral reefs and freshwater lakes. My research during this time not only expanded the boundaries of my knowledge but also underscored the critical importance of
-				these microbial ecosystems in sustaining our planet's ecological balance....</p>
+                Bioinformatics at Academia Sinica in Taiwan. It was within this esteemed institution that I had the privilege to delve deeply into the study of microbial communities 
+                inhabiting coral reefs and freshwater lakes. My research during this time not only expanded the boundaries of my knowledge but also underscored the critical importance of
+                these microbial ecosystems in sustaining our planet's ecological balance....</p>
             <p>Feel free to explore my website to learn more about coral reefs and the incredible marine life that inhabits them.</p>
         </div>
     </section>
-    <section id="projects">
-        <h2><a href="#projects">Projects</a></h2>
+    <section id="projects" class="expandable-section">
+        <h2>Projects</h2>
         <div class="hidden-text">
             <p>Discover some of the fascinating creatures that inhabit coral reefs...</p>
         </div>
     </section>
-    <section id="scientific publications">
-        <h2><a href="#scientific publications">Publications</a></h2>
+    <section id="scientific publications" class="expandable-section">
+        <h2>Publications</h2>
         <div class="hidden-text">
             <p>Explore the efforts being made to protect coral reefs...</p>
         </div>
     </section>
-    <section id="resume">
-        <h2><a href="#resume">CV</a></h2>
+    <section id="resume" class="expandable-section">
+        <h2>CV</h2>
         <div class="hidden-text">
             <p>If you have questions or want to get involved, please contact us...</p>
         </div>
     </section>
-    <section id="contact">
-        <h2><a href="#contact">Contact</a></h2>
+    <section id="contact" class="expandable-section">
+        <h2>Contact</h2>
         <div class="hidden-text">
             <p>If you have questions or want to get involved, please contact us...</p>
         </div>
     </section>
     <script>
-        // Function to toggle the visibility of the text when the corresponding button is clicked
-        const toggleButtons = document.querySelectorAll('.toggle-text');
+        // Function to toggle the visibility of sections when the navigation links are clicked
+        const navLinks = document.querySelectorAll('nav a');
+        const sections = document.querySelectorAll('.expandable-section');
 
-        toggleButtons.forEach(button => {
-            button.addEventListener('click', function () {
-                const section = this.parentElement;
-                const text = section.querySelector('.hidden-text');
-                if (text.style.display === 'none' || text.style.display === '') {
-                    text.style.display = 'block';
-                    this.textContent = 'Hide Text';
-                } else {
-                    text.style.display = 'none';
-                    this.textContent = 'Show Text';
-                }
+        navLinks.forEach((link, index) => {
+            link.addEventListener('click', function (e) {
+                e.preventDefault();
+                sections.forEach((section, sectionIndex) => {
+                    if (index === sectionIndex) {
+                        section.style.display = 'block';
+                    } else {
+                        section.style.display = 'none';
+                    }
+                });
             });
         });
     </script>
