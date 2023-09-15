@@ -54,13 +54,12 @@ section {
     text-align: left;
     margin: 20px;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Add a shadow for sections */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Add a shadow for sections */
     overflow: hidden; /* Hide content that overflows */
 }
 
 /* Style the "About Me" section background */
 #about {
-    background-color: #000; /* Black background color */
     color: #fff; /* White text color */
 }
 
@@ -75,21 +74,6 @@ section {
     text-decoration: none;
 }
 
-/* Unique transition for even sections */
-section:nth-child(even) {
-    transform: translateX(-100%);
-    opacity: 0;
-    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, background-color 0.3s ease-in-out;
-    background-color: #2ecc71; /* Background color for even sections */
-}
-
-/* Unique transition for odd sections */
-section:nth-child(odd) {
-    transform: translateY(-100%);
-    opacity: 0;
-    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, color 0.3s ease-in-out;
-    color: #e74c3c; /* Text color for odd sections */
-}
 
 /* Apply styles when a section is in the viewport */
 section.in-viewport {
