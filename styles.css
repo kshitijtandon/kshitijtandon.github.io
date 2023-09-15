@@ -6,12 +6,6 @@ body, h1, h2, p, ul, li {
 
 /* Apply a black background color and black text color */
 body {
-    background-color: #fff; /* Initial background color (black) */
-    font-family: Arial, sans-serif;
-    color: #000; /* Initial text color (white) */
-}
-
-body {
     background-color: #fff; /* Initial background color (white) */
     font-family: Arial, sans-serif;
     color: #000; /* Initial text color (black) */
@@ -22,20 +16,6 @@ header {
     background-color: #c6dba7; /* Header background color */
     text-align: center;
     padding: 2rem;
-}
-@keyframes colorShade {
-    0% {
-        background-color: #000; /* Start with black background */
-        color: #fff; /* Start with white text color */
-    }
-    50% {
-        background-color: #fff; /* Transition to white background */
-        color: #000; /* Transition to black text color */
-    }
-    100% {
-        background-color: #000; /* Return to black background */
-        color: #fff; /* Return to white text color */
-    }
 }
 
 /* Style the header text */
