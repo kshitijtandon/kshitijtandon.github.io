@@ -132,6 +132,9 @@ footer {
     padding: 1rem;
     color: #fff; /* Footer text color (white) */
 }
+.visible {
+    display: block;
+}
 html {
     scroll-behavior: smooth;
 }
