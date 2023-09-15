@@ -4,9 +4,11 @@ body, h1, h2, p, ul, li {
     padding: 0;
 }
 
-/* Apply a black background color and black text color */
 body {
-    background-color: #fff; /* Initial background color (white) */
+    background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5); /* 50% transparent black background color */
     font-family: Arial, sans-serif;
     color: #000; /* Initial text color (black) */
 }
