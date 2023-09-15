@@ -13,6 +13,22 @@
         .expandable-section:first-child {
             display: block;
         }
+
+        /* Sticky footer styles */
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        footer {
+            margin-top: auto;
+            background-color: #007acc; /* Footer background color */
+            text-align: center;
+            padding: 1rem;
+            color: #fff; /* Footer text color (white) */
+        }
     </style>
 </head>
 <body>
@@ -65,24 +81,6 @@
             <p>If you have questions or want to get involved, please contact us...</p>
         </div>
     </section>
-    <script>
-        // Function to toggle the visibility of sections when the navigation links are clicked
-        const navLinks = document.querySelectorAll('nav a');
-        const sections = document.querySelectorAll('.expandable-section');
-
-        navLinks.forEach((link, index) => {
-            link.addEventListener('click', function (e) {
-                e.preventDefault();
-                sections.forEach((section, sectionIndex) => {
-                    if (index === sectionIndex) {
-                        section.style.display = 'block';
-                    } else {
-                        section.style.display = 'none';
-                    }
-                });
-            });
-        });
-    </script>
     <footer>
         <p>&copy; 2023 Kshitij Tandon</p>
         <p>Image courtesy of: <a href="https://www.pexels.com/photo/scenic-photo-of-coral-reef-3157890/" target="_blank">Francesco Ungaro</a></p>
