@@ -19,23 +19,23 @@
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
-    <section id="about">
+    <section id="about" class="expandable-section">
         <h2>About me</h2>
         <p>Hi!!! There and welcome to my personal website.</p>
     </section>
-    <section id="projects">
+    <section id="projects" class="expandable-section">
         <h2>Projects</h2>
         <p>Discover some of the fascinating creatures that inhabit coral reefs...</p>
     </section>
-    <section id="scientific-publications">
+    <section id="scientific-publications" class="expandable-section">
         <h2>Publications</h2>
         <p>Explore the efforts being made to protect coral reefs...</p>
     </section>
-    <section id="resume">
+    <section id="resume" class="expandable-section">
         <h2>CV</h2>
         <p>If you have questions or want to get involved, please contact us...</p>
     </section>
-    <section id="contact">
+    <section id="contact" class="expandable-section">
         <h2>Contact</h2>
         <p>If you have questions or want to get involved, please contact us...</p>
     </section>
@@ -65,7 +65,7 @@
         document.querySelectorAll('h2').forEach(title => {
             title.addEventListener('click', function () {
                 const section = this.parentElement;
-                const sections = document.querySelectorAll('section');
+                const sections = document.querySelectorAll('.expandable-section');
 
                 sections.forEach(s => s.classList.remove('active'));
                 section.classList.add('active');
