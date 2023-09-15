@@ -12,6 +12,18 @@ body {
     animation: colorShade 6s infinite alternate; /* Animation with 6-second duration, infinite repeat, and alternate direction */
 }
 
+body {
+    background-color: #fff; /* Initial background color (white) */
+    font-family: Arial, sans-serif;
+    color: #000; /* Initial text color (black) */
+}
+
+/* Style the header */
+header {
+    background-color: #c6dba7; /* Header background color */
+    text-align: center;
+    padding: 2rem;
+}
 @keyframes colorShade {
     0% {
         background-color: #000; /* Start with black background */
@@ -25,12 +37,6 @@ body {
         background-color: #000; /* Return to black background */
         color: #fff; /* Return to white text color */
     }
-}
-/* Style the header */
-header {
-    background-color: #c6dba7; /* Header background color */
-    text-align: center;
-    padding: 2rem;
 }
 
 /* Style the header text */
