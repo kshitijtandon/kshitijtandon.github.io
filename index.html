@@ -19,59 +19,58 @@
             <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
-    <section id="about" class="expandable-section">
-        <h2 class="section-title"><a href="#about">About me</a></h2>
-        <!-- Content to be displayed when section is expanded -->
-        <div class="hidden-text">
-            <p>Hi!!! There and welcome to my personal website. </p>
-            <p>I am a Postdoctoral Research Fellow at the <a href="https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon">School of BioScience, University of Melbourne</a>,
-                working on understanding the coral microbiome dynamics</p>
-            <p>My passion for microbial ecology found its true expression during my doctoral studies, which spanned from 2015 to 2020. During this period, I pursued my Ph.D. in
-                Bioinformatics at Academia Sinica in Taiwan. It was within this esteemed institution that I had the privilege to delve deeply into the study of microbial communities 
-                inhabiting coral reefs and freshwater lakes. My research during this time not only expanded the boundaries of my knowledge but also underscored the critical importance of
-                these microbial ecosystems in sustaining our planet's ecological balance....</p>
-            <p>Feel free to explore my website to learn more about coral reefs and the incredible marine life that inhabits them.</p>
-        </div>
+    <section id="about">
+        <h2>About me</h2>
+        <p>Hi!!! There and welcome to my personal website.</p>
     </section>
-    <section id="projects" class="expandable-section">
-        <h2 class="section-title"><a href="#projects">Projects</a></h2>
-        <div class="hidden-text">
-            <p>Discover some of the fascinating creatures that inhabit coral reefs...</p>
-        </div>
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Discover some of the fascinating creatures that inhabit coral reefs...</p>
     </section>
-    <section id="scientific-publications" class="expandable-section">
-        <h2 class="section-title"><a href="#scientific-publications">Publications</a></h2>
-        <div class="hidden-text">
-            <p>Explore the efforts being made to protect coral reefs...</p>
-        </div>
+    <section id="scientific-publications">
+        <h2>Publications</h2>
+        <p>Explore the efforts being made to protect coral reefs...</p>
     </section>
-    <section id="resume" class="expandable-section">
-        <h2 class="section-title"><a href="#resume">CV</a></h2>
-        <div class="hidden-text">
-            <p>If you have questions or want to get involved, please contact us...</p>
-        </div>
+    <section id="resume">
+        <h2>CV</h2>
+        <p>If you have questions or want to get involved, please contact us...</p>
     </section>
-    <section id="contact" class="expandable-section">
-        <h2 class="section-title"><a href="#contact">Contact</a></h2>
-        <div class="hidden-text">
-            <p>If you have questions or want to get involved, please contact us...</p>
-        </div>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>If you have questions or want to get involved, please contact us...</p>
     </section>
-    <script>
-        // Function to toggle the visibility of the section's content when the section title is clicked
-        const sectionTitles = document.querySelectorAll('.section-title');
-
-        sectionTitles.forEach(title => {
-            title.addEventListener('click', () => {
-                const section = title.parentElement;
-                const text = section.querySelector('.hidden-text');
-                text.classList.toggle('visible');
-            });
-        });
-    </script>
     <footer>
         <p>&copy; 2023 Kshitij Tandon</p>
         <p>Image courtesy of: <a href="https://www.pexels.com/photo/scenic-photo-of-coral-reef-3157890/" target="_blank">Francesco Ungaro</a></p>
     </footer>
+    <script>
+        // Function to handle smooth scrolling when a navigation link is clicked
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                const targetId = this.getAttribute('href').substring(1); // Get the target section's id
+                const targetElement = document.getElementById(targetId);
+
+                if (targetElement) {
+                    window.scrollTo({
+                        top: targetElement.offsetTop,
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+
+        // Function to toggle active section when its title is clicked
+        document.querySelectorAll('h2').forEach(title => {
+            title.addEventListener('click', function () {
+                const section = this.parentElement;
+                const sections = document.querySelectorAll('section');
+
+                sections.forEach(s => s.classList.remove('active'));
+                section.classList.add('active');
+            });
+        });
+    </script>
 </body>
 </html>

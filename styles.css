@@ -5,33 +5,27 @@ body, h1, h2, p, ul, li {
 }
 
 body {
+    font-family: Arial, sans-serif;
+    color: #000; /* Initial text color (black) */
     background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.9); /* 50% transparent black background color */
-    font-family: Arial, sans-serif;
-    color: #000; /* Initial text color (black) */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
-/* Add this CSS class to hide the text content by default */
-.hidden-text {
-    display: none;
+.page-content {
+    flex: 1;
 }
 
 /* Style the header */
-header {    
-	background-image: url('coral_reef.jpg'); /* Replace 'your-image.jpg' with your image file path */
-    background-repeat: no-repeat;
-    background-size: cover;
+header {
     background-color: rgba(0, 0, 0, 0.9); /* 50% transparent black background color */
     text-align: center;
     padding: 2rem;
     color: #fff; /* Header text color (white) */
-}
-
-/* Style the header text */
-header h1 {
-    color: #fff; /* Header text color (black) */
 }
 
 /* Style the navigation menu */
@@ -61,44 +55,26 @@ section {
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Add a shadow for sections */
     overflow: hidden; /* Hide content that overflows */
+    background-color: #fff; /* Set a white background color for sections */
+    color: #000; /* Set black text color for sections */
+    display: none; /* Hide sections by default */
 }
 
-/* Style the "About Me" section background */
-#about {
-    color: #fff; /* White text color */
-}
-
-/* Style the links within the "About Me" section */
-#about a {
-    color: #007acc; /* Blue hyperlink text color */
-    text-decoration: underline; /* Add underline to links */
-}
-
-/* Remove underlines for links on hover */
-#about a:hover {
-    text-decoration: none;
+/* Add this CSS class to show the section when it's active */
+.active {
+    display: block;
 }
 
 /* Unique transition for even sections */
 section:nth-child(even) {
-    transform: translateX(-100%);
-    opacity: 0;
-    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, background-color 0.3s ease-in-out;
     background-color: #2ecc71; /* Background color for even sections */
+    color: #fff; /* Text color for even sections */
 }
 
 /* Unique transition for odd sections */
 section:nth-child(odd) {
-    transform: translateY(-100%);
-    opacity: 0;
-    transition: transform 0.7s ease-in-out, opacity 0.5s ease-in-out, color 0.3s ease-in-out;
-    color: #e74c3c; /* Text color for odd sections */
-}
-
-/* Apply styles when a section is in the viewport */
-section.in-viewport {
-    transform: translateX(0);
-    opacity: 1;
+    background-color: #e74c3c; /* Background color for odd sections */
+    color: #fff; /* Text color for odd sections */
 }
 
 /* Style section headings */
@@ -114,27 +90,10 @@ section p {
     line-height: 1.5;
 }
 
-/* Add this CSS for a sticky footer */
-body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
-
-.page-content {
-    flex: 1;
-}
-
 /* Style the footer */
 footer {
     background-color: #007acc; /* Footer background color */
     text-align: center;
     padding: 1rem;
     color: #fff; /* Footer text color (white) */
-}
-.visible {
-    display: block;
-}
-html {
-    scroll-behavior: smooth;
 }
