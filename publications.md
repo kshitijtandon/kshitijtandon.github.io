@@ -14,13 +14,13 @@ title: Publications
 
 <img src="../img/pubs/journal-article.png" height="20px"> F. Ricci, **K. Tandon**, M. Moßhammer, E. H. J. Cho, L. L. Blackall, M. Kühl, H. Verbruggen. Fine‐scale mapping of physicochemical and microbial landscapes of the coral skeleton. *Environmental Microbiology*. [Find Here](https://enviromicro-journals.onlinelibrary.wiley.com/doi/full/10.1111/1462-2920.16369).
 
-<img src="../img/pubs/journal-article.png" height="20px"> J. Maire, **K. Tandon**, A. Collingro, A. van de Meene, K. Damjanovic, C. R. Gotze, S. Stephenson, G. K. Philip, M. Horn, N. E. Cantin, L. L. Blackall, M. J. H. van Oppen. Colocalization and potential interactions of Endozoicomonas and chlamydiae in microbial aggregates of the coral *Pocillopora acuta*. *Science Advances*. [Find Here](https://www.science.org/doi/full/10.1126/sciadv.adg0773).
+<img src="../img/pubs/journal-article.png" height="20px"> J. Maire, **K. Tandon**, A. Collingro, A. van de Meene, K. Damjanovic, C. R. Gotze, S. Stephenson, G. K. Philip, M. Horn, N. E. Cantin, L. L. Blackall, M. J. H. van Oppen. Colocalization and potential interactions of Endozoicomonas and chlamydiae in microbial aggregates of the coral *Pocillopora acuta*. *Science Advances*. [Find Here](https://www.science.org/doi/full/10.1126/sciadv.adg0773). [Media Coverage](https://scitechdaily.com/chlamydia-like-bacteria-discovered-in-great-barrier-reef/)
 
 <img src="../img/pubs/journal-article.png" height="20px"> B. L. D. Uthpala Pushpakumara, **K. Tandon**, A. Willis, H. Verbruggen. Unravelling microalgal-bacterial interactions in aquatic ecosystems through 16S rRNA gene-based co-occurrence networks. *Scientific Reports*. [Find Here](https://www.nature.com/articles/s41598-023-27816-9).
 
 <img src="../img/pubs/review.png" height="20px"> **K. Tandon**, M. M. Pasella, C. Iha, F. Ricci, J. Hu, C. J. O’Kelly, M. Medina, M. Kühl, H. Verbruggen. Every refuge has its price: *Ostreobium* as a model for understanding how algae can live in rock and stay in business. *Seminars in Cell & Developmental Biology*. [Find Here](https://www.sciencedirect.com/science/article/abs/pii/S1084952122000775).
 
-<img src="../img/pubs/journal-article.png" height="20px"> P. H. Chou, M. Y. Hu, Y. J. Guh, G.C. Wu, S. H. Yang, **K. Tandon**, Y. T. Shao, L. Y. Lin, C. Chen, K. Y. Tseng, M. C. Wang, C. M Zhang, B. C. Han, C. C. Lin, S. L Tang, M. S. Jeng, C. F. Chang, Y. C. Tseng. Cellular mechanisms underlying extraordinary sulfide tolerance in a crustacean holobiont from hydrothermal vents. *Proceedings of the Royal Society B*. [Find Here](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.1973).
+<img src="../img/pubs/journal-article.png" height="20px"> P. H. Chou, M. Y. Hu, Y. J. Guh, G.C. Wu, S. H. Yang, **K. Tandon**, Y. T. Shao, L. Y. Lin, C. Chen, K. Y. Tseng, M. C. Wang, C. M Zhang, B. C. Han, C. C. Lin, S. L Tang, M. S. Jeng, C. F. Chang, Y. C. Tseng. Cellular mechanisms underlying extraordinary sulfide tolerance in a crustacean holobiont from hydrothermal vents. *Proceedings of the Royal Society B*. [Find Here](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.1973). [Media Coverage](https://phys.org/news/2023-01-brachyuran-crabs-survive-highly-acidic.html)
 
 <img src="../img/pubs/preprint.png" height="20px"> J. Maire, A. Collingro, **K. Tandon**, V. J. Jameson, L. M. Judd, M. Horn, L. L. Blackall, M. J. H. van Oppen. Chlamydiae as symbionts of photosynthetic dinoflagellates. *BioRxiv* [Find Here](https://www.biorxiv.org/content/10.1101/2023.12.18.572253v1.full).
 
@@ -55,7 +55,7 @@ title: Publications
 
 ## 2020
 
-<img src="../img/pubs/journal-article.png" height="20px"> **K. Tandon**, C. Y. Lu, P. W. Chiang, N. Wada, S. H. Yang, Y. F. Chan, P. Y. Chen, H. Y. Chang, Y. J. Chiou, M. S. Chou, W. M. Chen, S. L. Tang. Comparative genomics: Dominant coral bacterium *Endozoicomonas acroporae* metabolizes Dimethylsulfoniopropionate (DMSP). *The ISME Journal*. [Find Here](https://academic.oup.com/ismej/article/14/5/1290/7475022).
+<img src="../img/pubs/journal-article.png" height="20px"> **K. Tandon**, C. Y. Lu, P. W. Chiang, N. Wada, S. H. Yang, Y. F. Chan, P. Y. Chen, H. Y. Chang, Y. J. Chiou, M. S. Chou, W. M. Chen, S. L. Tang. Comparative genomics: Dominant coral bacterium *Endozoicomonas acroporae* metabolizes Dimethylsulfoniopropionate (DMSP). *The ISME Journal*. [Find Here](https://academic.oup.com/ismej/article/14/5/1290/7475022). [Media Coverage](https://communities.springernature.com/posts/60754-smell-the-sea-e-acroporae-s-role-in-coral-dmsp-metabolism)
 
 
 ## 2019
