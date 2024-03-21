@@ -6,7 +6,7 @@ subtitle: For complete list plese check my [Google Scholar](https://scholar.goog
 
 ## 2024
 
-<img src="../img/pubs/journal-article.png" height="20px"> A.M. Dungan, **K.Tandon**, V. Jameson, C.R. Gotze, L.L. Blackall, M.J.H. van Oppen. A targeted approach to enrich host-associated bacteria for metagenomic sequencing. *FEMS Microbes*. [Find Here](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtad021/7453677).
+<img src="/img/pubs/journal-article.png" height="20px"> A.M. Dungan, **K.Tandon**, V. Jameson, C.R. Gotze, L.L. Blackall, M.J.H. van Oppen. A targeted approach to enrich host-associated bacteria for metagenomic sequencing. *FEMS Microbes*. [Find Here](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtad021/7453677).
 
 ## 2023
 <img src="../img/pubs/journal-article.png" height="20px"> B.L.D. Uthpala Pushpakumara, **K. Tandon**, A. Willis, H. Verbruggen. The Bacterial Microbiome of the Coral Skeleton Algal Symbiont Ostreobium Shows Preferential Associations and Signatures of Phylosymbiosis. *Microbial Ecology*. [Find Here](https://link.springer.com/article/10.1007/s00248-023-02209-7).
@@ -31,7 +31,7 @@ subtitle: For complete list plese check my [Google Scholar](https://scholar.goog
 
 ## 2022
 
-<img src="../img/pubs/journal-article.png" height="20px"> N. Wada, M. T. Hsu, **K. Tandon**, S. S. Y. Hsiao, H. J. Chen, Y. H. Chen, P. W. Chiang, S. P. Yu, C. Y. Lu, Y. J. Chiou, Y. C. Tu, X. Tian, B. C Chen, D. C. Lee, H. Yamashiro, D. G. Bourne, S. L Tang. High-resolution spatial and genomic characterization of coral-associated microbial aggregates in the coral *Stylophora pistillata*. *Science Advances*. [Find Here](https://www.science.org/doi/full/10.1126/sciadv.abo2431).
+<img src="/img/pubs/journal-article.png" height="20px"> N. Wada, M. T. Hsu, **K. Tandon**, S. S. Y. Hsiao, H. J. Chen, Y. H. Chen, P. W. Chiang, S. P. Yu, C. Y. Lu, Y. J. Chiou, Y. C. Tu, X. Tian, B. C Chen, D. C. Lee, H. Yamashiro, D. G. Bourne, S. L Tang. High-resolution spatial and genomic characterization of coral-associated microbial aggregates in the coral *Stylophora pistillata*. *Science Advances*. [Find Here](https://www.science.org/doi/full/10.1126/sciadv.abo2431).
 
 <img src="../img/pubs/journal-article.png" height="20px"> **K. Tandon**, Y. J. Chiou, S. P. Yu, H. J. Hsieh, C. Y. Lu, M. T. Hsu, P. W. Chiang, H. J. Chen, N. Wada, S. L. Tang. Microbiome Restructuring: Dominant Coral Bacterium *Endozoicomonas* Species Respond Differentially to Environmental Changes. *mSystems*. [Find Here](https://journals.asm.org/doi/full/10.1128/msystems.00359-22).
 
