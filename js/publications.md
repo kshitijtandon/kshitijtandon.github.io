@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: For complete list plese check my [Google Scholar](https://scholar.google.com.au/citations?user=99vbd9cAAAAJ&hl=en).
 ---
 
 ## 2024
