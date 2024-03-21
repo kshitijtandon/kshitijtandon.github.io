@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Publications
-subtitle: For complete list plese check my [Google Scholar](https://scholar.google.com.au/citations?user=99vbd9cAAAAJ&hl=en).
 ---
 
 ## 2024
 
-<img src="/img/pubs/journal-article.png" height="20px"> A.M. Dungan, **K.Tandon**, V. Jameson, C.R. Gotze, L.L. Blackall, M.J.H. van Oppen. A targeted approach to enrich host-associated bacteria for metagenomic sequencing. *FEMS Microbes*. [Find Here](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtad021/7453677).
+<img src="../img/pubs/journal-article.png" height="20px"> A. M. Dungan, **K. Tandon**, V. Jameson, C.R. Gotze, L.L. Blackall, M.J.H. van Oppen. A targeted approach to enrich host-associated bacteria for metagenomic sequencing. *FEMS Microbes*. [Find Here](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtad021/7453677).
 
 ## 2023
 <img src="../img/pubs/journal-article.png" height="20px"> B.L.D. Uthpala Pushpakumara, **K. Tandon**, A. Willis, H. Verbruggen. The Bacterial Microbiome of the Coral Skeleton Algal Symbiont Ostreobium Shows Preferential Associations and Signatures of Phylosymbiosis. *Microbial Ecology*. [Find Here](https://link.springer.com/article/10.1007/s00248-023-02209-7).
@@ -63,5 +62,5 @@ subtitle: For complete list plese check my [Google Scholar](https://scholar.goog
 <img src="../img/pubs/journal-article.png" height="20px"> S. H. Yang, **K. Tandon**, C. Y. Lu, N. Wada, C. J. Shih, S. S. Y. Hsiao, W. N. Jane, T. C. Lee, C. M. Yang, C. T. Liu, V. Denis, Y. T. Wu, L. T. Wang, L. Huang, D. C. Lee, Y. W. Wu, H. Yamashiro, S. L. Tang. Metagenomic, phylogenetic, and functional characterization of predominant endolithic green sulfur bacteria in the coral *Isopora palifera*. *Microbiome*. [Find Here](https://link.springer.com/article/10.1186/s40168-018-0616-z)
 
 _______________
-
+For complete list plese check my [Google Scholar](https://scholar.google.com.au/citations?user=99vbd9cAAAAJ&hl=en).
 
