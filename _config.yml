@@ -16,8 +16,10 @@ navbar-links:
   RESEARCH:
     - postdoc: "https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon"
     - PhD: "research_phd"
+  PROJECTS: "research projects"
   OUTREACH: "outreach"
   PUBLICATIONS: "publications"
+  AWARDS: "awards"
   MORE:
     - GitHub: "https://github.com/kshitijtandon"
     - G.Scholar: "https://scholar.google.com.au/citations?hl=en&pli=1&user=99vbd9cAAAAJ"
