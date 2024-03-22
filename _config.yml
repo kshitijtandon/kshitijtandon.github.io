@@ -14,9 +14,9 @@ author: Kshitij Tandon
 
 navbar-links:
   RESEARCH:
-    - postdoc: "https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon"
+    - Postdoc: "https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon"
     - PhD: "research_phd"
-  PROJECTS: "research projects"
+    - Projects: "research projects"
   OUTREACH: "outreach"
   PUBLICATIONS: "publications"
   AWARDS: "awards"

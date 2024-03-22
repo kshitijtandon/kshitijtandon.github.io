@@ -62,5 +62,5 @@ title: Publications
 <img src="../img/pubs/journal-article.png" height="20px"> S. H. Yang, **K. Tandon**, C. Y. Lu, N. Wada, C. J. Shih, S. S. Y. Hsiao, W. N. Jane, T. C. Lee, C. M. Yang, C. T. Liu, V. Denis, Y. T. Wu, L. T. Wang, L. Huang, D. C. Lee, Y. W. Wu, H. Yamashiro, S. L. Tang. Metagenomic, phylogenetic, and functional characterization of predominant endolithic green sulfur bacteria in the coral *Isopora palifera*. *Microbiome*. [Find Here](https://link.springer.com/article/10.1186/s40168-018-0616-z)
 
 _______________
-For complete list plese check my [Google Scholar](https://scholar.google.com.au/citations?user=99vbd9cAAAAJ&hl=en).
+For complete list please check my [Google Scholar](https://scholar.google.com.au/citations?user=99vbd9cAAAAJ&hl=en).
 
