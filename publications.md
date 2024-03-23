@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+##### Please contact me for access to pdfs!!
+
 ## 2024
 
 <img src="../img/pubs/journal-article.png" height="20px"> A. M. Dungan, **K. Tandon**, V. Jameson, C.R. Gotze, L.L. Blackall, M.J.H. van Oppen. A targeted approach to enrich host-associated bacteria for metagenomic sequencing. *FEMS Microbes*. [Find Here](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtad021/7453677).
