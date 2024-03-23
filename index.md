@@ -8,4 +8,4 @@ I live in Melbourne, Australia, where I am a postdoctoral research fellow at [Th
 
 I completed my PhD in Bioinformatics in 2020 at [Environmental microbiology lab](https://sltang.biodiv.tw/index.php) under the supervision of [Prof. Sen-Lin Tang, Biodiversity Research Center](https://sltang.biodiv.tw),[Academia Sinica,Taiwan](https://www.sinica.edu.tw/en) under the [Taiwan International Graduate Program on Bioinformatics](https://idv.sinica.edu.tw/tigpbio/index.html). My dissertation focussed on understanding the microbial community-functional relationships.
 
-**Update** I will moving to (Melbourne Integrative Genomics)[https://sites.research.unimelb.edu.au/integrative-genomics] in April, 2024 to start a new position with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/).
+**Update** I will moving to [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics) in April, 2024 to start a new position with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/).
