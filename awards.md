@@ -20,11 +20,11 @@ subtitle: Awards
 
 #### Travel Grants
 
-1. Australian Bioinformatics and Computational Biology Society, 2024 Travel award sponsored by [Australian Center for Ecogenomics](https://scmb.uq.edu.au/centres-and-institutes/australian-centre-ecogenomics), to promote bioinformatics in marine research.
+1. Australian Bioinformatics and Computational Biology Society Travel award sponsored by [Australian Center for Ecogenomics](https://scmb.uq.edu.au/centres-and-institutes/australian-centre-ecogenomics), to promote bioinformatics in marine research (2023)
 
-2. Ministry of Science and Technology, Taiwan Travel Grant, 2019
+2. Ministry of Science and Technology, Taiwan Travel Grant (2019)
 
-3. Academia Sinica, Travel Grant, 2019
+3. Academia Sinica, Travel Grant (2019)
 
 
 #### Talks and poster awards
