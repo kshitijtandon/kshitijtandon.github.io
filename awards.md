@@ -12,7 +12,7 @@ subtitle: Awards
 
 3. Taiwan International Graduate Research Fellowship (2015-2020)
 
-4. Graduate Aptitude Test in Engineering, Master in Technology(Bioinformatics) (2013-2015)
+4. Graduate Aptitude Test in Engineering Fellowship, <b>Government of India</b> for Master in Technology (Bioinformatics) (2013-2015)
 
 5. University Academic Scholarship for Tution Waiver(100%) (2008-2012)
 
