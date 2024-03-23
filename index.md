@@ -6,7 +6,7 @@ subtitle: About me
 
 <figure>
 	<p align='center'>
-		<img src="../img/kshitijtandon.png" alt='Kshitij Tandon' height="300px">
+		<img src="../img/kshitijtandon.jpg" alt='Kshitij Tandon' height="300px">
 	</p>
 </figure>
 
