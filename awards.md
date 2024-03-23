@@ -29,17 +29,14 @@ subtitle: Awards
 
 #### Talks and poster awards
 
-1.
+1. Peoples choice award for best oral presentation, ABACBS (2023)
 
-2.
+2. Oral Presentation award, MicroSeq (2023)
 
-3.
+3. Best oral presentation award, Taiwanese Coral Reefs Society (2020)
 
-4.
+4. Best Poster Presentation Award, 6<sup>th</sup> Taiwan-Japan Microbial Ecology Symposium (2018)
 
-5.
-
-6.
 
 _______________
 
