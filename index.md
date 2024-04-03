@@ -5,7 +5,7 @@ subtitle: About me
 ---
 
 <p align='center'>
-	<img src="img/kshitijtandon.jpg" alt='Kshitij Tandon' height="300px">
+	<img src="/img/kshitijtandon.jpg" alt='Kshitij Tandon' height="300px">
 </p>
 
 I am based in Melbourne, Australia, where I work as a postdoctoral research fellow at [The University of Melbourne](https://www.unimelb.edu.au) in the laboratory of [A/Prof. Heroen Verbruggen](https://hverbruggen.github.io//). My focus is on coral holobiont ecogenomics. In this role, I drive research in functional genomics and microbial ecology, aiming to develop a comprehensive understanding of the functional roles played by diverse coral microbiome members in coral health and resilience, particularly in the context of climate change. To achieve this goal, I work extensively with different omics data, including metagenomics, metatranscriptomics, and metabolomics.
