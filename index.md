@@ -14,4 +14,6 @@ I am based in Melbourne, Australia, where I work as a postdoctoral research fell
 
 I completed my Ph.D. in Bioinformatics in 2020 at the [Environmental microbiology lab](https://sltang.biodiv.tw/index.php) under the supervision of [Prof. Sen-Lin Tang, Biodiversity Research Center](https://sltang.biodiv.tw),[Academia Sinica,Taiwan](https://www.sinica.edu.tw/en) under the [Taiwan International Graduate Program on Bioinformatics](https://idv.sinica.edu.tw/tigpbio/index.html). My dissertation focussed on understanding the microbial community-functional relationships.
 
-***Update*** I will be moving to [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics) in April, 2024 to start a new position with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/).
+***Update*** I have moved to [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics) in April, 2024 to start a new position with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/). Here I will be working on developing metabolic models of microbiome members and identify the community scale nutritional interactions. So stay tuned.
+
+***New Publication*** First foray into the metabolic modelling of the microbes is out in *npj Systems biology and applications*. See the [publications](https://kshitijtandon.github.io/publications/) tab for more details.
