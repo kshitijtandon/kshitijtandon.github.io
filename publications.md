@@ -7,6 +7,8 @@ title: Publications
 
 ## 2024
 
+<img src="../img/pubs/journal-article.png" height="20px">Y.E. Hsieh, **K. Tandon**, H. Verbruggen, Z. Nikoloski, 2024, Comparative analysis of metabolic models of microbial communities reconstructed from automated tools and consensus approaches. *npj Systems Biology and Applications*. [Find Here](https://www.nature.com/articles/s41540-024-00384-y).
+
 <img src="../img/pubs/journal-article.png" height="20px"> A. M. Dungan, **K. Tandon**, V. Jameson, C.R. Gotze, L.L. Blackall, M.J.H. van Oppen. A targeted approach to enrich host-associated bacteria for metagenomic sequencing. *FEMS Microbes*. [Find Here](https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtad021/7453677).
 
 ## 2023
