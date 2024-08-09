@@ -6,6 +6,7 @@ title: Publications
 ##### Please contact me for access to pdfs!!
 
 ## 2024
+<img src="../img/pubs/journal-article.png" height="20px"> P.S. Chuang, T.H .Wang, C.Y. Lu, **K. Tandon**, S. Shikina, S.L. Tang, 2024, Microbiome heterogeneity in tissues of the coral, *Fimbriaphyllia (Euphyllia) ancora*. *Environmental Microbiology Reports* . [Find Here](https://enviromicro-journals.onlinelibrary.wiley.com/doi/full/10.1111/1758-2229.13310)
 
 <img src="../img/pubs/journal-article.png" height="20px">Y.E. Hsieh, **K. Tandon**, H. Verbruggen, Z. Nikoloski, 2024, Comparative analysis of metabolic models of microbial communities reconstructed from automated tools and consensus approaches. *npj Systems Biology and Applications*. [Find Here](https://www.nature.com/articles/s41540-024-00384-y).
 
