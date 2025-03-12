@@ -6,11 +6,16 @@ title: Publications
 ##### Please contact me for access to pdfs!!
 
 ## 2025
+
 <img src="../img/pubs/journal-article.png" height="20px"> C.R. Gotze, **K. Tandon**, GK. Philip, AM. Dungan, J. Maire, L. Hoj, L.L. Blackall, M.J.H. van Oppen, 2025, Uncovering the genomic potential of two novel *Endozoicomonas* species as coral probiotic candidates for enhanced thermal tolerance. *Submitted*
 
 <img src="../img/pubs/journal-article.png" height="20px"> C.R. Gotze, **K. Tandon**, G.K. Philip, AM. Dungan, J. Maire, L. Hoj, L.L. Blackall, M.J.H. van Oppen, 2025,Genomic prediction of symbiotic interactions between two *Endozoicomonas* clades and their coral host, *Acropora loripes*. *Submitted*
 
-<img src="../img/pubs/journal-article.png" height="20px"> **K. Tandon**, J. Hu, F. Ricci, L.L. Blackall, M. Medina, M. Kuhl, H. Verbruggen. 2025, Metatranscriptomics sheds light on “who is doing what” in the coral *Porites lutea*. *bioRxiv* [Find Here](https://www.biorxiv.org/content/10.1101/2025.01.09.632055v1)
+<img src="../img/pubs/journal-article.png" height="20px"> **K. Tandon**, J. Hu, M.M. Pasella, B.L.D. Uthpala Pushpakumara, H. Verbruggen, 2025,
+Coral Skeleton Dwelling Endolithic Algae: *Ostreobium* and Its Biology, In: Peixoto, R.S., Voolstra, C.R. (eds) Coral Reef Microbiome. Coral Reefs of the World, vol 20. Springer, Cham. [Find Here](https://doi.org/10.1007/978-3-031-76692-3_4)
+
+
+<img src="../img/pubs/journal-article.png" height="20px"> **K. Tandon**, J. Hu, F. Ricci, L.L. Blackall, M. Medina, M. Kuhl, H. Verbruggen. 2025, Metatranscriptomics sheds light on “who is doing what” in the coral *Porites lutea*. *bioRxiv* [Find Here](https://www.biorxiv.org/content/10.1101/2025.01.09.632055v1) *Submitted*
 
 ## 2024
 <img src="../img/pubs/journal-article.png" height="20px"> J. Maire, A. Collingro, **K. Tandon**, V.J. Jameson, L.M. Judd, M. Horn, L.L. Blackall, M.J.H. van Oppen. *Chlamydiae* as symbionts of photosynthetic dinoflagellates. *ISME J*. [Find Here](https://academic.oup.com/ismej/article/18/1/wrae139/7719117)
@@ -35,8 +40,6 @@ title: Publications
 <img src="../img/pubs/review.png" height="20px"> **K. Tandon**, M. M. Pasella, C. Iha, F. Ricci, J. Hu, C. J. O’Kelly, M. Medina, M. Kühl, H. Verbruggen. Every refuge has its price: *Ostreobium* as a model for understanding how algae can live in rock and stay in business. *Seminars in Cell & Developmental Biology*. [Find Here](https://www.sciencedirect.com/science/article/abs/pii/S1084952122000775).
 
 <img src="../img/pubs/journal-article.png" height="20px"> P. H. Chou, M. Y. Hu, Y. J. Guh, G.C. Wu, S. H. Yang, **K. Tandon**, Y. T. Shao, L. Y. Lin, C. Chen, K. Y. Tseng, M. C. Wang, C. M Zhang, B. C. Han, C. C. Lin, S. L Tang, M. S. Jeng, C. F. Chang, Y. C. Tseng. Cellular mechanisms underlying extraordinary sulfide tolerance in a crustacean holobiont from hydrothermal vents. *Proceedings of the Royal Society B*. [Find Here](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2022.1973). [Media Coverage](https://phys.org/news/2023-01-brachyuran-crabs-survive-highly-acidic.html)
-
-<img src="../img/pubs/preprint.png" height="20px"> Y. E. Hsieh, **K. Tandon**, H. Verbruggen, Z. Nikoloski. Comparative analysis of metabolic models of microbial communities reconstructed from automated tools and consensus approaches. *BioRxiv* [Find Here](https://www.biorxiv.org/content/10.1101/2023.09.13.557568v1.full).
 
 <img src="../img/pubs/journal-article.png" height="20px"> **K. Tandon**, F. Ricci, J. Costa, M. Medina, M. Kühl, L. L. Blackall, H. Verbruggen. Genomic view of the diversity and functional role of archaea and bacteria in the skeleton of the reef-building corals *Porites lutea* and *Isopora palifera*. *GigaScience*. [Find Here](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac127/6997638?login=false).
 
