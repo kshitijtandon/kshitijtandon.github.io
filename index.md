@@ -8,6 +8,14 @@ subtitle: About me
   <img src="/img/kshitijtandon.jpg" alt='Kshitij Tandon' height="300px">
 </p>
 
+<script>
+  fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/about/visits')
+    .then(res => res.json())
+    .then(data => {
+      document.getElementById('visit-count').textContent = data.value;
+    })
+    .catch(console.error);
+</script>
 
 I am a postdoctoral research fellow at [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics), University of Melbourne, working with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/). My current research focuses on *developing genome-scale metabolic models of microbiome members* to investigate community-scale nutritional interactions and functional interdependencies within complex microbial ecosystems. This work aims to build predictive frameworks for microbiome function, with applications in health, disease, and environmental resilience.
 
@@ -25,10 +33,3 @@ I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology
   This page has been visited <span id="visit-count">...</span> times.
 </p>
 
-<script>
-  fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/visits')
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById('visit-count').textContent = data.value;
-    });
-</script>
