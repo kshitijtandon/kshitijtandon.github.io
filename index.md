@@ -14,7 +14,7 @@ subtitle: About me
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/about/visits')
+    fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/)
       .then(res => res.json())
       .then(data => {
         document.getElementById('visit-count').textContent = data.value;
