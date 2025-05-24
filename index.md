@@ -7,14 +7,7 @@ subtitle: About me
   <img src="/img/kshitijtandon.jpg" alt="Kshitij Tandon" height="300px">
 </p>
 
-
-<p align="left">This page has been visited 
-  <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=20743426&style=0001&nbdigits=5&type=page&initCount=0" 
-         title="Counter Widget" alt="Visit counter For Websites" border="0" />
-  </a> times.</p>                                  
-                                    
-
+                             
 I am a postdoctoral research fellow at [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics), University of Melbourne, working with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/). My current research focuses on *developing genome-scale metabolic models of microbiome members* to investigate community-scale nutritional interactions and functional interdependencies within complex microbial ecosystems. This work aims to build predictive frameworks for microbiome function, with applications in health, disease, and environmental resilience.
 
 My broader research interest lies in systems biology of environmental and host-associated microbiomes. I integrate multi-omics data—metagenomics, metatranscriptomics, and metabolomics—to explore the functional ecology of microbiomes and how they adapt to or influence dynamic environments. Through these approaches, I seek to understand how microbial communities contribute to host health and ecosystem stability.
