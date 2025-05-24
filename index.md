@@ -24,6 +24,7 @@ I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology
 <p align="center" style="font-size: 0.9em; color: gray;">
   This page has been visited <span id="visit-count">...</span> times.
 </p>
+
 <script>
   fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/visits')
     .then(res => res.json())
