@@ -21,6 +21,6 @@ I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology
 **Latest publication**: My first study on metabolic modeling of microbiomes is now published in *npj Systems Biology and Applications*. See the [publications](https://kshitijtandon.github.io/publications/) tab for more.
 
 
-<img src="https://visitor-badge.glitch.me/badge?page=kshitijtandon.github.io" alt="Visitor Count">
+<img src="https://visitor-badge.glitch.me/badge?page_id=kshitijtandon.github.io" alt="Visitor Count">
 
 
