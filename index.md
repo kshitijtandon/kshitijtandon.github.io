@@ -7,9 +7,6 @@ subtitle: About me
   <img src="/img/kshitijtandon.jpg" alt="Kshitij Tandon" height="300px">
 </p>
 
-<p align="center" style="font-size: 0.9em; color: gray;">
-  This page has been visited by <span id="visit-count">...</span> people.
-</p>
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
@@ -37,7 +34,7 @@ I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology
 
 **Latest publication**: Integrating metatranscriptomics improves metabolic modelling. See [publications](https://kshitijtandon.github.io/publications/) tab for more.
 
-<p align="left" style="font-size: 0.9em; color: gray;">
-  This page has been visited <span id="visit-count">...</span> times.
+<p align="center" style="font-size: 0.9em; color: gray;">
+  This page has been visited by <span id="visit-count">...</span> people.
 </p>
 
