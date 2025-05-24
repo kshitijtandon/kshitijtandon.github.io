@@ -4,17 +4,23 @@ use-site-title: true
 subtitle: About me
 ---
 
-<p align='center'>
-  <img src="/img/kshitijtandon.jpg" alt='Kshitij Tandon' height="300px">
+<p align="center">
+  <img src="/img/kshitijtandon.jpg" alt="Kshitij Tandon" height="300px">
+</p>
+
+<p align="center" style="font-size: 0.9em; color: gray;">
+  This page has been visited <span id="visit-count">...</span> times.
 </p>
 
 <script>
-  fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/about/visits')
-    .then(res => res.json())
-    .then(data => {
-      document.getElementById('visit-count').textContent = data.value;
-    })
-    .catch(console.error);
+  document.addEventListener("DOMContentLoaded", function() {
+    fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/about/visits')
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById('visit-count').textContent = data.value;
+      })
+      .catch(console.error);
+  });
 </script>
 
 I am a postdoctoral research fellow at [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics), University of Melbourne, working with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/). My current research focuses on *developing genome-scale metabolic models of microbiome members* to investigate community-scale nutritional interactions and functional interdependencies within complex microbial ecosystems. This work aims to build predictive frameworks for microbiome function, with applications in health, disease, and environmental resilience.
@@ -28,8 +34,3 @@ Previously, I worked with [A/Prof. Heroen Verbruggen](https://hverbruggen.github
 I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology Lab](https://sltang.biodiv.tw/index.php), [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan, as part of the [Taiwan International Graduate Program in Bioinformatics](https://idv.sinica.edu.tw/tigpbio/index.html), under the supervision of [Prof. Sen-Lin Tang](https://sltang.biodiv.tw). My doctoral research focused on deciphering microbial community-function relationships in diverse environmental systems.
 
 **Latest publication**: My first study on metabolic modeling of microbiomes is now published in *npj Systems Biology and Applications*. See the [publications](https://kshitijtandon.github.io/publications/) tab for more.
-
-<p align="center" style="font-size: 0.9em; color: gray;">
-  This page has been visited <span id="visit-count">...</span> times.
-</p>
-
