@@ -21,13 +21,9 @@ I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology
 **Latest publication**: Integrating metatranscriptomics improves metabolic modelling. See [publications](https://kshitijtandon.github.io/publications/) tab for more.
 
 
-<p align="left">This page has been visited 
-  <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=20743426&style=0001&nbdigits=5&type=page&initCount=0" 
-         title="Counter Widget" alt="Visit counter For Websites" border="0" />
-  </a> times.</p>      
-
-<p align="left" style="font-size: 0.9em; color: gray;">
-  This page has been visited by <span id="visit-count">...</span> people.
-</p>
+<p align="left"style="font-size: 0.9em; color: gray;> This page has been visited 
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=20743448&style=0038&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>     
+  </a> times.</p>                               
+                                    
 
