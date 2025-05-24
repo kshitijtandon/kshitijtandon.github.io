@@ -7,13 +7,23 @@ subtitle: About me
   <img src="/img/kshitijtandon.jpg" alt="Kshitij Tandon" height="300px">
 </p>
 
-<!-- Free Visitor Counter -->
-<a href="http://www.freevisitorcounters.com">Free Counter</a>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/auth.php?id=aed909ddcdcb5a3d6301fee203c8a4a59e3801a5"></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1344297/t/4"></script>
+<p align="center" style="font-size: 0.9em; color: gray;">
+  This page has been visited by <span id="visit-count">...</span> people.
+</p>
 
-
-
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/about/visits')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('visit-count').textContent = data.value;
+      })
+      .catch(error => {
+        console.error('Count API error:', error);
+        document.getElementById('visit-count').textContent = 'N/A';
+      });
+  });
+</script>
 
 I am a postdoctoral research fellow at [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics), University of Melbourne, working with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/). My current research focuses on *developing genome-scale metabolic models of microbiome members* to investigate community-scale nutritional interactions and functional interdependencies within complex microbial ecosystems. This work aims to build predictive frameworks for microbiome function, with applications in health, disease, and environmental resilience.
 
