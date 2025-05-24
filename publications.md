@@ -7,6 +7,8 @@ title: Publications
 
 ## 2025
 
+<img src="../img/pubs/journal-article.png" height="20px"> Y.E. Hsieh, **K. Tandon**, H. Verbruggen, Z. Nikoloski, 2025, Integration of metatranscriptomics data improves the predictive capacity of microbial community metabolic models. *_Accepted_*
+
 <img src="../img/pubs/journal-article.png" height="20px"> C.R. Gotze, **K. Tandon**, GK. Philip, AM. Dungan, J. Maire, L. Hoj, L.L. Blackall, M.J.H. van Oppen, 2025, Uncovering the genomic potential of two novel *Endozoicomonas* species as coral probiotic candidates for enhanced thermal tolerance. *Submitted*
 
 <img src="../img/pubs/journal-article.png" height="20px"> C.R. Gotze, **K. Tandon**, G.K. Philip, AM. Dungan, J. Maire, L. Hoj, L.L. Blackall, M.J.H. van Oppen, 2025,Genomic prediction of symbiotic interactions between two *Endozoicomonas* clades and their coral host, *Acropora loripes*. *Submitted*
