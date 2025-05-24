@@ -30,7 +30,7 @@ Previously, I worked with [A/Prof. Heroen Verbruggen](https://hverbruggen.github
 
 I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology Lab](https://sltang.biodiv.tw/index.php), [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan, as part of the [Taiwan International Graduate Program in Bioinformatics](https://idv.sinica.edu.tw/tigpbio/index.html), under the supervision of [Prof. Sen-Lin Tang](https://sltang.biodiv.tw). My doctoral research focused on deciphering microbial community-function relationships in diverse environmental systems.
 
-**Latest publication**: Integrating metatranscriptomics improves metabolic modelling. See [publications(https://kshitijtandon.github.io/publications/) tab for more.
+**Latest publication**: Integrating metatranscriptomics improves metabolic modelling. See [publications](https://kshitijtandon.github.io/publications/) tab for more.
 
 <p align="left" style="font-size: 0.9em; color: gray;">
   This page has been visited <span id="visit-count">...</span> times.
