@@ -7,16 +7,11 @@ subtitle: About me
   <img src="/img/kshitijtandon.jpg" alt="Kshitij Tandon" height="300px">
 </p>
 
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    fetch('https://api.countapi.xyz/hit/kshitijtandon.github.io/')
-      .then(res => res.json())
-      .then(data => {
-        document.getElementById('visit-count').textContent = data.value;
-      })
-      .catch(console.error);
-  });
-</script>
+<!-- Free Visitor Counter -->
+<a href="http://www.freevisitorcounters.com">Free Counter</a>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/auth.php?id=aed909ddcdcb5a3d6301fee203c8a4a59e3801a5"></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1344297/t/4"></script>
+
 
 
 
