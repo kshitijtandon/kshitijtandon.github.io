@@ -6,9 +6,9 @@ title: Publications
 ##### Please contact me for access to pdfs!!
 
 ## 2025
-<img src="../img/pubs/journal-article.png" height="20px"> Y.E. Hsieh, **K. Tandon**, H. Verbruggen, Z. Nikoloski, 2025, Integration of metatranscriptomics data improves the predictive capacity of microbial community metabolic models. The ISME Journal (*Accepted*)
+<img src="../img/pubs/journal-article.png" height="20px">A. Bachem, M. Clarke, G. Kong, I. Tarasova, L. Dryburgh, L. Kosack, A.R. Lee, L. Newland, T. McGivern1, E. Bawden, K.M. Yap, M. Wilson, S. Engel, B.E. Russ, **K. Tandon**, G. McArthur, V.R. Marcelino, P.A. Beavis, S.J. Turner, J. Waithman, T.P. Stinear, S. Sandhu, J. Schroeder, T. Gebhardt, S. Bedoui. SCFA producing capabilities of the gut microbiota enhance tumor-specific CD127+ CD8+ T cell immunity against melanoma. Immunity Journal *Accepted* 
 
-<img src="../img/pubs/journal-article.png" height="20px">A. Bachem, M. Clarke, G. Kong, I. Tarasova, L. Dryburgh, L. Kosack, A.R. Lee, L. Newland, T. McGivern1, E. Bawden, K.M. Yap, M. Wilson, S. Engel, B.E. Russ, **K. Tandon**, G. McArthur, V.R. Marcelino, P.A. Beavis, S.J. Turner, J. Waithman, T.P. Stinear, S. Sandhu, J. Schroeder, T. Gebhardt, S. Bedoui. SCFA producing capabilities of the gut microbiota enhance tumor-specific CD127+ CD8+ T cell immunity against melanoma. *Submitted* 
+<img src="../img/pubs/journal-article.png" height="20px"> Y.E. Hsieh, **K. Tandon**, H. Verbruggen, Z. Nikoloski, 2025, Integration of metatranscriptomics data improves the predictive capacity of microbial community metabolic models. The ISME Journal. [Find Here](https://academic.oup.com/ismej/article/19/1/wraf109/8154416)
 
 <img src="../img/pubs/journal-article.png" height="20px"> C.R. Gotze, **K. Tandon**, GK. Philip, AM. Dungan, J. Maire, L. Hoj, L.L. Blackall, M.J.H. van Oppen, 2025, Uncovering the genomic potential of two novel *Endozoicomonas* species as coral probiotic candidates for enhanced thermal tolerance. *Submitted*
 
