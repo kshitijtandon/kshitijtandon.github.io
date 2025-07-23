@@ -14,11 +14,11 @@ My broader research interest lies in systems biology of environmental and host-a
 
 I actively collaborate with researchers at the [Peter Doherty Institute for Infection and Immunity](https://www.doherty.edu.au) (with [Prof. Sammy Bedoui](https://www.doherty.edu.au/people/sammy_bedoui)) and the [Peter MacCallum Cancer Center](https://www.petermac.org) (with [Dr. Shahneen Sandhu](https://www.petermac.org/expert-finder/details/shahneen-sandhu)), bringing microbiome metabolic modeling into translational contexts such as infection, immunity, and cancer.
 
-Previously, I worked with [A/Prof. Heroen Verbruggen](https://hverbruggen.github.io//) at the University of Melbourne on coral holobiont ecogenomics, investigating how microbial communities support coral health and resilience in the face of climate change.
+Previously, I worked with [A/Prof. Heroen Verbruggen](https://hverbruggen.github.io//) and [Prof. Madeleine van Oppen](https://findanexpert.unimelb.edu.au/profile/726007-madeleine-van-oppen) at the University of Melbourne on coral holobiont ecogenomics, investigating how microbial communities support coral health and resilience in the face of climate change.
 
 I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology Lab](https://sltang.biodiv.tw/index.php), [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan, as part of the [Taiwan International Graduate Program in Bioinformatics](https://idv.sinica.edu.tw/tigpbio/index.html), under the supervision of [Prof. Sen-Lin Tang](https://sltang.biodiv.tw). My doctoral research focused on deciphering microbial community-function relationships in diverse environmental systems.
 
-**Latest publication**: Integrating metatranscriptomics improves metabolic modelling. See [publications](https://kshitijtandon.github.io/publications/) tab for more.
+**Latest publication**: Deciphering role of Short-chain fatty acids in conferring immunity against melanoma. See [publications](https://kshitijtandon.github.io/publications/) tab for more.
 
 <p align="left" style="font-size: 0.9em; color: gray;">
   This page has been visited 
