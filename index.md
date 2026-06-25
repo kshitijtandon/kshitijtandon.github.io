@@ -97,6 +97,63 @@ My research integrates **metagenomics**, **genome-scale metabolic modelling**, *
 
 ---
 
+---
+
+## Research Themes
+
+<div class="research-grid">
+
+  <div class="research-card">
+    <h3>Human Microbiome</h3>
+    <p>
+      Understanding how microbiome function influences immunity, cancer, health, and disease.
+    </p>
+  </div>
+
+  <div class="research-card">
+    <h3>Microbial Metabolism</h3>
+    <p>
+      Investigating microbial metabolites, nutrient interactions, and community metabolic capabilities.
+    </p>
+  </div>
+
+  <div class="research-card">
+    <h3>Functional Microbiomics</h3>
+    <p>
+      Moving beyond taxonomy to study microbial genes, pathways, genomes, and functional activity.
+    </p>
+  </div>
+
+</div>
+
+---
+
+## Research Highlights
+
+<div class="highlight-grid">
+
+  <div class="highlight-card">
+    <div class="highlight-number">25+</div>
+    <div class="highlight-label">Peer-reviewed publications</div>
+  </div>
+
+  <div class="highlight-card">
+    <div class="highlight-number">Immunity</div>
+    <div class="highlight-label">Accepted cancer microbiome study</div>
+  </div>
+
+  <div class="highlight-card">
+    <div class="highlight-number">Microbiome</div>
+    <div class="highlight-label">Functional microbiome research</div>
+  </div>
+
+  <div class="highlight-card">
+    <div class="highlight-number">GSMs</div>
+    <div class="highlight-label">Genome-scale metabolic modelling</div>
+  </div>
+
+</div>
+
 ## Current Research
 
 My research integrates **metagenomics**, **functional microbiome profiling**, and **genome-scale metabolic modelling** to understand how microbial communities influence human health.
