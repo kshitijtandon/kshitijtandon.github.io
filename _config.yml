@@ -11,8 +11,6 @@ author: Kshitij Tandon
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
-
-
 navbar-links:
   RESEARCH: "research"
   PUBLICATIONS: "publications"
