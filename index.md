@@ -121,7 +121,7 @@ Current projects include:
 - Publications in **Immunity**, **Microbiome**, **ISME Journal**, **Science Advances**, and **GigaScience**
 - Research spanning human and environmental microbiomes
 - Expertise in metagenomics, metabolic modelling, and systems biology
----
+
 
 ## Latest News
 
