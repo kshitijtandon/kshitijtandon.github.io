@@ -16,16 +16,16 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
     The University of Melbourne
   </p>
 
- <p class="home-tagline">
-  Understanding how microbial metabolism shapes immunity, cancer, and human health.
+<p class="home-tagline">
+  Understanding how the microbiome shapes immunity and human health through microbial metabolism.
 </p>
 
-  <div class="home-buttons">
-    <a href="/research/">Research</a>
-    <a href="/publications/">Publications</a>
-    <a href="/software/">Software</a>
-    <a href="/cv/">CV</a>
-  </div>
+ <div class="home-buttons">
+  <a href="/research/">View Research</a>
+  <a href="/publications/">Publications</a>
+  <a href="/cv/">CV</a>
+  <a href="/contact/">Contact</a>
+</div>
 
 </div>
 
