@@ -1,14 +1,193 @@
 .home-hero {
+    background: linear-gradient(#fcfdfd, #ffffff);
+    border-radius: 20px;
+    padding: 3rem;
+}
+
+.home-hero img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;/* ---------- Homepage hero ---------- */
+
+.home-hero {
   text-align: center;
-  padding: 3.2rem 1rem 2.6rem 1rem;
   max-width: 900px;
-  margin: 0 auto;
+  margin: 0 auto 2rem auto;
+  padding: 2.5rem 1.5rem 2.2rem 1.5rem;
+  background: linear-gradient(#fcfdfd, #ffffff);
+  border-radius: 20px;
 }
 
 .home-hero img {
   width: 220px;
   height: 220px;
   object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 1.3rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.home-hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 0.4rem;
+  letter-spacing: -0.03em;
+}
+
+.home-role {
+  font-size: 1.1rem;
+  line-height: 1.5;
+  color: #444;
+}
+
+.home-tagline {
+  max-width: 760px;
+  margin: 1.4rem auto 1.7rem auto;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+.home-buttons a {
+  display: inline-block;
+  margin: 0.3rem;
+  padding: 0.65rem 1.05rem;
+  border: 1px solid #154c52;
+  border-radius: 999px;
+  color: #154c52;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.home-buttons a:hover {
+  background: #154c52;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* ---------- Homepage sections ---------- */
+
+.section-light,
+.section-white {
+  margin: 2rem -9999px;
+  padding: 2.5rem 9999px;
+}
+
+.section-light {
+  background: #f8fbfb;
+}
+
+.section-white {
+  background: #ffffff;
+}
+
+/* ---------- Cards and grids ---------- */
+
+.research-grid,
+.publication-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.1rem;
+  margin: 1.7rem 0 2.2rem 0;
+}
+
+.highlight-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin: 1.7rem 0 2.2rem 0;
+}
+
+.research-card,
+.publication-card,
+.highlight-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: 1.35rem;
+  background: #ffffff;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.research-card:hover,
+.publication-card:hover,
+.highlight-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.research-card h3,
+.publication-card h3 {
+  margin-top: 0;
+  color: #154c52;
+}
+
+.research-icon {
+  font-size: 2.2rem;
+  margin-bottom: 0.7rem;
+}
+
+.highlight-card {
+  text-align: center;
+  background: #ffffff;
+}
+
+.highlight-number {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #154c52;
+  margin-bottom: 0.35rem;
+}
+
+.highlight-label {
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.publication-card {
+  background: #ffffff;
+}
+
+.publication-card a {
+  font-weight: 700;
+}
+
+/* ---------- Typography ---------- */
+
+h2 {
+  margin-top: 0;
+  letter-spacing: -0.02em;
+}
+
+hr {
+  margin: 2.2rem 0;
+}
+
+/* ---------- Mobile tweaks ---------- */
+
+@media (max-width: 768px) {
+  .home-hero {
+    padding: 2rem 1rem;
+  }
+
+  .home-hero img {
+    width: 180px;
+    height: 180px;
+  }
+
+  .home-hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .home-tagline {
+    font-size: 1.1rem;
+  }
+
+  .section-light,
+  .section-white {
+    margin: 1.5rem -9999px;
+    padding: 2rem 9999px;
+  }
+}
   border-radius: 50%;
   margin-bottom: 1.6rem;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
@@ -125,4 +304,17 @@ hr {
 .research-icon {
   font-size: 2.2rem;
   margin-bottom: 0.7rem;
+}
+/* ---------- Page sections ---------- */
+
+.section-light {
+    background: #f8fbfb;
+    margin: 3rem -9999px;
+    padding: 3rem 9999px;
+}
+
+.section-white {
+    background: #ffffff;
+    margin: 3rem -9999px;
+    padding: 3rem 9999px;
 }

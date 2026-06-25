@@ -16,22 +16,22 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
     The University of Melbourne
   </p>
 
-<p class="home-tagline">
-  Understanding how the microbiome shapes immunity and human health through microbial metabolism.
-</p>
+  <p class="home-tagline">
+    Understanding how the microbiome shapes immunity and human health through microbial metabolism.
+  </p>
 
- <div class="home-buttons">
-  <a href="/research/">View Research</a>
-  <a href="/publications/">Publications</a>
-  <a href="/cv/">CV</a>
-  <a href="/contact/">Contact</a>
+  <div class="home-buttons">
+    <a href="/research/">View Research</a>
+    <a href="/publications/">Publications</a>
+    <a href="/cv/">CV</a>
+    <a href="/contact/">Contact</a>
+  </div>
+
 </div>
 
-</div>
+<section class="section-light">
 
----
-
-## Research Themes
+<h2>Research Themes</h2>
 
 <div class="research-grid">
 
@@ -60,9 +60,12 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
   </div>
 
 </div>
----
 
-## Research Highlights
+</section>
+
+<section class="section-white">
+
+<h2>Research Highlights</h2>
 
 <div class="highlight-grid">
 
@@ -88,17 +91,11 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 
 </div>
 
----
+</section>
 
-## Latest News
+<section class="section-light">
 
-- **2026** — *Microbiome* paper published on functional metatranscriptomics in coral microbiomes.
-- **2025** — Paper accepted in **Immunity** describing microbial short-chain fatty acids and anti-tumour immunity.
-- **2024** — Research Fellow, Peter Doherty Institute for Infection and Immunity.
-
----
-
-## Featured Publications
+<h2>Featured Publications</h2>
 
 <div class="publication-grid">
 
@@ -121,3 +118,17 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
   </div>
 
 </div>
+
+</section>
+
+<section class="section-white">
+
+<h2>Latest News</h2>
+
+<ul>
+  <li><strong>2026</strong> — <em>Microbiome</em> paper published on functional metatranscriptomics in coral microbiomes.</li>
+  <li><strong>2025</strong> — Paper accepted in <strong>Immunity</strong> describing microbial short-chain fatty acids and anti-tumour immunity.</li>
+  <li><strong>2024</strong> — Joined the Peter Doherty Institute for Infection and Immunity as a Research Fellow.</li>
+</ul>
+
+</section>
