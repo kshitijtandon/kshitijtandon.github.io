@@ -2,51 +2,71 @@
 layout: default
 use-site-title: true
 subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immunity
+css: "/assets/css/custom.css"
 ---
 
-<p align="center">
-  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon" height="320px">
-</p>
+<div class="home-hero">
 
-# Kshitij Tandon, PhD
+  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon">
 
-**Research Fellow**  
-**The Peter Doherty Institute for Infection and Immunity**  
-**The University of Melbourne**
+  <h1>Kshitij Tandon, PhD</h1>
 
-I study how microbial communities and their metabolism influence human health and disease. My research integrates **metagenomics**, **systems biology**, **genome-scale metabolic modelling**, and **multi-omics analysis** to understand microbiome function and its role in therapeutic response and disease progression.
+  <div class="role">Research Fellow</div>
+  <div class="institution">The Peter Doherty Institute for Infection and Immunity | The University of Melbourne</div>
 
-Rather than focusing only on which microbes are present, my work asks what microbial communities **do**. I use computational approaches to investigate microbial metabolism, community interactions, and functional pathways that shape host biology, with a current focus on the gut microbiome in cancer immunotherapy.
+  <p class="tagline">
+    I use computational and systems biology approaches to understand how microbial communities and their metabolism influence human health and disease.
+  </p>
 
----
+  <div class="home-buttons">
+    <a href="/research/">Research</a>
+    <a href="/publications/">Publications</a>
+    <a href="/software/">Software</a>
+    <a href="/cv/">CV</a>
+  </div>
 
-## Research focus
-
-### Microbiome and human health
-
-I investigate how host-associated microbial communities contribute to disease biology, treatment response, and clinical outcomes, particularly in the context of cancer immunotherapy.
-
-### Microbial systems biology
-
-I use genome-scale metabolic modelling and functional microbiome analysis to move beyond taxonomic descriptions towards a mechanistic understanding of microbial community function.
-
-### Functional metagenomics and multi-omics
-
-I integrate metagenomic, metabolomic, and other omics datasets to identify microbial functions, pathways, and biomarkers associated with health and disease.
+</div>
 
 ---
 
-## Current work
+## Research
 
-My current research focuses on understanding the functional role of the gut microbiome in cancer immunotherapy. By integrating large-scale metagenomic datasets with genome-scale metabolic models, I aim to identify microbial metabolic features associated with therapeutic response and uncover mechanisms underlying host–microbiome interactions.
+My research integrates **metagenomics**, **genome-scale metabolic modelling**, **systems biology**, and **multi-omics analysis** to investigate microbiome function and host–microbiome interactions, with a current focus on cancer immunotherapy.
+
+<div class="research-grid">
+
+  <div class="research-card">
+    <h3>Microbiome and Human Health</h3>
+    <p>
+      Understanding how host-associated microbial communities contribute to disease biology, treatment response, and clinical outcomes.
+    </p>
+  </div>
+
+  <div class="research-card">
+    <h3>Microbial Systems Biology</h3>
+    <p>
+      Using metabolic modelling and functional microbiome analysis to move beyond taxonomic descriptions towards mechanisms.
+    </p>
+  </div>
+
+  <div class="research-card">
+    <h3>Functional Metagenomics</h3>
+    <p>
+      Integrating metagenomic, metabolomic, and other omics datasets to identify microbial functions, pathways, and biomarkers.
+    </p>
+  </div>
+
+</div>
 
 ---
 
-## Learn more
+## Current Focus
 
-- [Research](/research/)
-- [Publications](/publications/)
-- [Software](/software/)
-- [Outreach](/outreach/)
-- [Awards](/awards/)
-- [CV](/cv/)
+My current work investigates the functional role of the gut microbiome in cancer immunotherapy. By integrating large-scale metagenomic datasets with genome-scale metabolic models, I aim to identify microbial metabolic features associated with therapeutic response and disease progression.
+
+---
+
+## Latest Updates
+- **2026** — Updated this website to better reflect my current research in microbiome systems biology.
+- **2024** — Joined the Peter Doherty Institute for Infection and Immunity as a Research Fellow.
+- **2024** — Began work on community-scale metabolic modelling of microbiome members at Melbourne Integrative Genomics.
