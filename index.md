@@ -36,42 +36,30 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <div class="research-grid">
 
   <div class="research-card">
+    <div class="research-icon">🦠</div>
     <h3>Human Microbiome</h3>
     <p>
-      Understanding how microbiome function influences immunity, cancer, health, and disease.
+      Understanding how the microbiome influences immunity, cancer, and human health.
     </p>
   </div>
 
   <div class="research-card">
+    <div class="research-icon">⚙️</div>
     <h3>Microbial Metabolism</h3>
     <p>
-      Investigating microbial metabolites, nutrient interactions, and community metabolic capabilities.
+      Investigating microbial metabolism using genome-scale metabolic models and systems biology.
     </p>
   </div>
 
   <div class="research-card">
+    <div class="research-icon">🧬</div>
     <h3>Functional Microbiomics</h3>
     <p>
-      Moving beyond taxonomy to study microbial genes, pathways, genomes, and functional activity.
+      Deciphering microbiome function through metagenomics, functional annotation, and pathway analysis.
     </p>
   </div>
 
 </div>
-
----
-
-## Current Research
-
-My research integrates **metagenomics**, **functional microbiome profiling**, and **genome-scale metabolic modelling** to understand how microbial communities influence human health.
-
-Current projects include:
-
-- Gut microbiome and cancer immunotherapy
-- Microbial metabolism and short-chain fatty acids
-- Functional microbiome profiling
-- Genome-scale metabolic modelling
-- Multi-cohort microbiome analysis
-
 ---
 
 ## Research Highlights
