@@ -102,18 +102,11 @@ My research integrates **metagenomics**, **genome-scale metabolic modelling**, *
 My research integrates **metagenomics**, **functional microbiome profiling**, and **genome-scale metabolic modelling** to understand how microbial communities influence human health.
 
 Current projects include:
-
 - Gut microbiome and cancer immunotherapy
-
 - Microbial metabolism and short-chain fatty acids
-
 - Functional microbiome profiling
-
 - Genome-scale metabolic modelling
-
 - Multi-cohort microbiome analysis
-
-
 
 ## Research Highlights
 
