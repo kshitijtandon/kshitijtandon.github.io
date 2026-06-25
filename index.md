@@ -2,8 +2,6 @@
 layout: default
 use-site-title: true
 subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immunity
-css:
-  - "/assets/css/custom.css"
 ---
 
 <div class="home-hero">
