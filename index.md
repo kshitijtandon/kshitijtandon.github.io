@@ -6,13 +6,14 @@ use-site-title: true
 
 subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immunity
 
-css: "/assets/css/custom.css"
+css:
+  - "/assets/css/custom.css"
 
 ---
 
 <div class="home-hero">
 
-  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon">
+  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon" width="220">
 
   <h1>Kshitij Tandon, PhD</h1>
 
