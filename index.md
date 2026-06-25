@@ -13,29 +13,37 @@ css:
 
 <div class="home-hero">
 
-  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon">
+  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon" width="220">
 
-  <h1>Kshitij Tandon, PhD</h1>
+  <h1>Dr Kshitij Tandon</h1>
 
-  <div class="role">Research Fellow</div>
+  <p class="home-role">
 
-  <div class="institution">The Peter Doherty Institute for Infection and Immunity | The University of Melbourne</div>
+    <strong>Research Fellow</strong><br>
 
-  <p class="tagline">
+    The Peter Doherty Institute for Infection and Immunity<br>
 
-    I use computational and systems biology approaches to understand how microbial communities and their metabolism influence human health and disease.
+    The University of Melbourne
+
+  </p>
+
+  <p class="home-tagline">
+
+    Computational microbiome research to understand how microbial metabolism shapes
+
+    human health, disease, and therapeutic response.
 
   </p>
 
   <div class="home-buttons">
 
-    <a href="/research/">Research</a>
+      <a href="/research/">Research</a>
 
-    <a href="/publications/">Publications</a>
+      <a href="/publications/">Publications</a>
 
-    <a href="/software/">Software</a>
+      <a href="/software/">Software</a>
 
-    <a href="/cv/">CV</a>
+      <a href="/cv/">CV</a>
 
   </div>
 
@@ -89,19 +97,37 @@ My research integrates **metagenomics**, **genome-scale metabolic modelling**, *
 
 ---
 
-## Current Focus
+## Current Research
 
-My current work investigates the functional role of the gut microbiome in cancer immunotherapy. By integrating large-scale metagenomic datasets with genome-scale metabolic models, I aim to identify microbial metabolic features associated with therapeutic response and disease progression.
+My research integrates **metagenomics**, **functional microbiome profiling**, and **genome-scale metabolic modelling** to understand how microbial communities influence human health.
 
+Current projects include:
+
+- Gut microbiome and cancer immunotherapy
+
+- Microbial metabolism and short-chain fatty acids
+
+- Functional microbiome profiling
+
+- Genome-scale metabolic modelling
+
+- Multi-cohort microbiome analysis
 ---
 
-## Latest Updates
+## Research Highlights
 
-- **2026** — Joined the Peter Doherty Institute for Infection and Immunity as a Research Fellow.
+- 25+ peer-reviewed publications
+- Publications in **Immunity**, **Microbiome**, **ISME Journal**, **Science Advances**, and **GigaScience**
+- Research spanning human and environmental microbiomes
+- Expertise in metagenomics, metabolic modelling, and systems biology
+---
 
-- **2026** — Updated this website to better reflect my current research in microbiome systems biology.
+## Latest News
 
-- **2024** — Began work on community-scale metabolic modelling of microbiome members at Melbourne Integrative Genomics.
+- **2026** — *Microbiome* paper published on functional metatranscriptomics in coral 
+microbiomes.
+- **2025** — Paper accepted in **Immunity** describing microbial short-chain fatty acids and anti-tumour immunity.
+- **2024** — Research Fellow, Peter Doherty Institute for Infection and Immunity.
 
 ---
 
