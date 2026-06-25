@@ -1,30 +1,103 @@
 ---
+
 layout: default
+
 use-site-title: true
-subtitle: About me
+
+subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immunity
+
+css: "/assets/css/custom.css"
+
 ---
-<p align="center">
-  <img src="/img/kshitijtandon.jpg" alt="Kshitij Tandon" height="300px">
-</p>
 
-                             
-I am a postdoctoral research fellow at [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics), University of Melbourne, working with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/). My current research focuses on *developing genome-scale metabolic models of microbiome members* to investigate community-scale nutritional interactions and functional interdependencies within complex microbial ecosystems. This work aims to build predictive frameworks for microbiome function, with applications in health, disease, and environmental resilience.
+<div class="home-hero">
 
-My broader research interest lies in systems biology of environmental and host-associated microbiomes. I integrate multi-omics data—metagenomics, metatranscriptomics, and metabolomics—to explore the functional ecology of microbiomes and how they adapt to or influence dynamic environments. Through these approaches, I seek to understand how microbial communities contribute to host health and ecosystem stability.
+  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon">
 
-I actively collaborate with researchers at the [Peter Doherty Institute for Infection and Immunity](https://www.doherty.edu.au) (with [Prof. Sammy Bedoui](https://www.doherty.edu.au/people/sammy_bedoui)) and the [Peter MacCallum Cancer Center](https://www.petermac.org) (with [Dr. Shahneen Sandhu](https://www.petermac.org/expert-finder/details/shahneen-sandhu)), bringing microbiome metabolic modeling into translational contexts such as infection, immunity, and cancer.
+  <h1>Kshitij Tandon, PhD</h1>
 
-Previously, I worked with [A/Prof. Heroen Verbruggen](https://hverbruggen.github.io//) and [Prof. Madeleine van Oppen](https://findanexpert.unimelb.edu.au/profile/726007-madeleine-van-oppen) at the University of Melbourne on coral holobiont ecogenomics, investigating how microbial communities support coral health and resilience in the face of climate change.
+  <div class="role">Research Fellow</div>
 
-I earned my Ph.D. in Bioinformatics in 2020 from the [Environmental Microbiology Lab](https://sltang.biodiv.tw/index.php), [Academia Sinica](https://www.sinica.edu.tw/en), Taiwan, as part of the [Taiwan International Graduate Program in Bioinformatics](https://idv.sinica.edu.tw/tigpbio/index.html), under the supervision of [Prof. Sen-Lin Tang](https://sltang.biodiv.tw). My doctoral research focused on deciphering microbial community-function relationships in diverse environmental systems.
+  <div class="institution">The Peter Doherty Institute for Infection and Immunity | The University of Melbourne</div>
 
-**Latest publication**: Deciphering role of Short-chain fatty acids in conferring immunity against melanoma. See [publications](https://kshitijtandon.github.io/publications/) tab for more.
+  <p class="tagline">
 
-<p align="left" style="font-size: 0.9em; color: gray;">
-  This page has been visited 
-  <a href="https://www.hitwebcounter.com" target="_blank">
-  <img src="https://hitwebcounter.com/counter/counter.php?page=21220643&style=0005&nbdigits=5&type=page&initCount=120" 
-        title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>  
-  </a> 
-  times.
-</p>            
+    I use computational and systems biology approaches to understand how microbial communities and their metabolism influence human health and disease.
+
+  </p>
+
+  <div class="home-buttons">
+
+    <a href="/research/">Research</a>
+
+    <a href="/publications/">Publications</a>
+
+    <a href="/software/">Software</a>
+
+    <a href="/cv/">CV</a>
+
+  </div>
+
+</div>
+
+---
+
+## Research
+
+My research integrates **metagenomics**, **genome-scale metabolic modelling**, **systems biology**, and **multi-omics analysis** to investigate microbiome function and host–microbiome interactions, with a current focus on cancer immunotherapy.
+
+<div class="research-grid">
+
+  <div class="research-card">
+
+    <h3>Microbiome and Human Health</h3>
+
+    <p>
+
+      Understanding how host-associated microbial communities contribute to disease biology, treatment response, and clinical outcomes.
+
+    </p>
+
+  </div>
+
+  <div class="research-card">
+
+    <h3>Microbial Systems Biology</h3>
+
+    <p>
+
+      Using metabolic modelling and functional microbiome analysis to move beyond taxonomic descriptions towards mechanisms.
+
+    </p>
+
+  </div>
+
+  <div class="research-card">
+
+    <h3>Functional Metagenomics</h3>
+
+    <p>
+
+      Integrating metagenomic, metabolomic, and other omics datasets to identify microbial functions, pathways, and biomarkers.
+
+    </p>
+
+  </div>
+
+</div>
+
+---
+
+## Current Focus
+
+My current work investigates the functional role of the gut microbiome in cancer immunotherapy. By integrating large-scale metagenomic datasets with genome-scale metabolic models, I aim to identify microbial metabolic features associated with therapeutic response and disease progression.
+
+---
+
+## Latest Updates
+
+- **2026** — Joined the Peter Doherty Institute for Infection and Immunity as a Research Fellow.
+
+- **2026** — Updated this website to better reflect my current research in microbiome systems biology.
+
+- **2024** — Began work on community-scale metabolic modelling of microbiome members at Melbourne Integrative Genomics.
