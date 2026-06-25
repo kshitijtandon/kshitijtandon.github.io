@@ -1,19 +1,52 @@
 ---
 layout: default
 use-site-title: true
-subtitle: About me
+subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immunity
 ---
 
-<p align='center'>
-	<img src="/img/kshitijtandon.jpg" alt='Kshitij Tandon' height="300px">
+<p align="center">
+  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon" height="320px">
 </p>
 
-I am based in Melbourne, Australia, where I work as a postdoctoral research fellow at [The University of Melbourne](https://www.unimelb.edu.au) in the laboratory of [A/Prof. Heroen Verbruggen](https://hverbruggen.github.io//). My focus is on coral holobiont ecogenomics. In this role, I drive research in functional genomics and microbial ecology, aiming to develop a comprehensive understanding of the functional roles played by diverse coral microbiome members in coral health and resilience, particularly in the context of climate change. To achieve this goal, I work extensively with different omics data, including metagenomics, metatranscriptomics, and metabolomics.
+# Kshitij Tandon, PhD
 
-*My research interest* lies in developing a holistic understanding of environmental microbiomes by employing an integrative approach through the application of systems biology and context-specific genome-scale metabolic models.
+**Research Fellow**  
+**The Peter Doherty Institute for Infection and Immunity**  
+**The University of Melbourne**
 
-I completed my Ph.D. in Bioinformatics in 2020 at the [Environmental microbiology lab](https://sltang.biodiv.tw/index.php) under the supervision of [Prof. Sen-Lin Tang, Biodiversity Research Center](https://sltang.biodiv.tw),[Academia Sinica,Taiwan](https://www.sinica.edu.tw/en) under the [Taiwan International Graduate Program on Bioinformatics](https://idv.sinica.edu.tw/tigpbio/index.html). My dissertation focussed on understanding the microbial community-functional relationships.
+I study how microbial communities and their metabolism influence human health and disease. My research integrates **metagenomics**, **systems biology**, **genome-scale metabolic modelling**, and **multi-omics analysis** to understand microbiome function and its role in therapeutic response and disease progression.
 
-***Update*** I have moved to [Melbourne Integrative Genomics](https://sites.research.unimelb.edu.au/integrative-genomics) in April, 2024 to start a new position with [Dr. Vanessa R Marcelino](https://www.hologenomics.org/). Here I will be working on developing metabolic models of microbiome members and identify the community scale nutritional interactions. So stay tuned.
+Rather than focusing only on which microbes are present, my work asks what microbial communities **do**. I use computational approaches to investigate microbial metabolism, community interactions, and functional pathways that shape host biology, with a current focus on the gut microbiome in cancer immunotherapy.
 
-***New Publication*** First foray into the metabolic modelling of the microbes is out in *npj Systems biology and applications*. See the [publications](https://kshitijtandon.github.io/publications/) tab for more details.
+---
+
+## Research focus
+
+### Microbiome and human health
+
+I investigate how host-associated microbial communities contribute to disease biology, treatment response, and clinical outcomes, particularly in the context of cancer immunotherapy.
+
+### Microbial systems biology
+
+I use genome-scale metabolic modelling and functional microbiome analysis to move beyond taxonomic descriptions towards a mechanistic understanding of microbial community function.
+
+### Functional metagenomics and multi-omics
+
+I integrate metagenomic, metabolomic, and other omics datasets to identify microbial functions, pathways, and biomarkers associated with health and disease.
+
+---
+
+## Current work
+
+My current research focuses on understanding the functional role of the gut microbiome in cancer immunotherapy. By integrating large-scale metagenomic datasets with genome-scale metabolic models, I aim to identify microbial metabolic features associated with therapeutic response and uncover mechanisms underlying host–microbiome interactions.
+
+---
+
+## Learn more
+
+- [Research](/research/)
+- [Publications](/publications/)
+- [Software](/software/)
+- [Outreach](/outreach/)
+- [Awards](/awards/)
+- [CV](/cv/)

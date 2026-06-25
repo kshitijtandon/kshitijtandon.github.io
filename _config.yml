@@ -13,18 +13,18 @@ author: Kshitij Tandon
 ###############################################
 
 navbar-links:
-  RESEARCH:
-    - Postdoc: "https://findanexpert.unimelb.edu.au/profile/880742-kshitij-tandon"
-    - PhD: "research_phd"
-    - Projects: "research projects"
-  OUTREACH: "outreach"
+  RESEARCH: "research"
   PUBLICATIONS: "publications"
+  SOFTWARE: "software"
+  OUTREACH: "outreach"
   AWARDS: "awards"
+  CV: "cv"
   MORE:
+    - About: "aboutme"
+    - Contact: "contact"
     - GitHub: "https://github.com/kshitijtandon"
-    - G.Scholar: "https://scholar.google.com.au/citations?hl=en&pli=1&user=99vbd9cAAAAJ"
-    - Twitter: "https://twitter.com/kt_microbes"
-    - ORCiD: "https://orcid.org/0000-0003-3022-0808"
+    - Google Scholar: "https://scholar.google.com.au/citations?hl=en&pli=1&user=99vbd9cAAAAJ"
+    - ORCID: "https://orcid.org/0000-0003-3022-0808"
 
 ################
 # --- Logo --- #
