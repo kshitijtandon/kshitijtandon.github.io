@@ -4,45 +4,37 @@ use-site-title: true
 subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immunity
 ---
 
-<div class="home-hero home-hero-split">
+<div class="home-hero">
 
-  <div class="home-hero-photo">
+  <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon" width="220">
 
-    <img src="/img/kshitijtandon.jpg" alt="Dr Kshitij Tandon">
+  <h1>Dr Kshitij Tandon</h1>
 
-  </div>
+  <p class="home-role">
 
-  <div class="home-hero-text">
+    <strong>Research Fellow</strong><br>
 
-    <h1>Dr Kshitij Tandon</h1>
+    The Peter Doherty Institute for Infection and Immunity<br>
 
-    <p class="home-role">
+    The University of Melbourne
 
-      <strong>Research Fellow</strong><br>
+  </p>
 
-      The Peter Doherty Institute for Infection and Immunity<br>
+  <p class="home-tagline">
 
-      The University of Melbourne
+    Understanding how the microbiome shapes immunity and human health through microbial metabolism.
 
-    </p>
+  </p>
 
-    <p class="home-tagline">
+  <div class="home-buttons">
 
-      Understanding how the microbiome shapes immunity and human health through microbial metabolism.
+    <a href="/research/">View Research</a>
 
-    </p>
+    <a href="/publications/">Publications</a>
 
-    <div class="home-buttons">
+    <a href="/cv/">CV</a>
 
-      <a href="/research/">View Research</a>
-
-      <a href="/publications/">Publications</a>
-
-      <a href="/cv/">CV</a>
-
-      <a href="/contact/">Contact</a>
-
-    </div>
+    <a href="/contact/">Contact</a>
 
   </div>
 
