@@ -112,7 +112,8 @@ Current projects include:
 - Genome-scale metabolic modelling
 
 - Multi-cohort microbiome analysis
----
+
+
 
 ## Research Highlights
 
@@ -129,7 +130,7 @@ microbiomes.
 - **2025** — Paper accepted in **Immunity** describing microbial short-chain fatty acids and anti-tumour immunity.
 - **2024** — Research Fellow, Peter Doherty Institute for Infection and Immunity.
 
----
+
 
 ## Featured Publications
 
