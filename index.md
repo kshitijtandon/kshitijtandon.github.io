@@ -16,10 +16,9 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
     The University of Melbourne
   </p>
 
-  <p class="home-tagline">
-    Computational microbiome research to understand how microbial metabolism shapes
-    human health, disease, and therapeutic response.
-  </p>
+ <p class="home-tagline">
+  Understanding how microbial metabolism shapes immunity, cancer, and human health.
+</p>
 
   <div class="home-buttons">
     <a href="/research/">Research</a>

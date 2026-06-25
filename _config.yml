@@ -12,6 +12,7 @@ author: Kshitij Tandon
 # --- List of links in the navigation bar --- #
 ###############################################
 
+
 navbar-links:
   RESEARCH: "research"
   PUBLICATIONS: "publications"
@@ -19,12 +20,7 @@ navbar-links:
   OUTREACH: "outreach"
   AWARDS: "awards"
   CV: "cv"
-  MORE:
-    - About: "aboutme"
-    - Contact: "contact"
-    - GitHub: "https://github.com/kshitijtandon"
-    - Google Scholar: "https://scholar.google.com.au/citations?hl=en&pli=1&user=99vbd9cAAAAJ"
-    - ORCID: "https://orcid.org/0000-0003-3022-0808"
+  CONTACT: "contact"
 
 ################
 # --- Logo --- #
@@ -143,7 +139,7 @@ footer-link-col: "#008AFF"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-footer-img: "../img/footer.jpg"
+#footer-img: "../img/footer.jpg"
 #page-img: "/assets/img/bgimage.png"
 
 # --- Footer options --- #
