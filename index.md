@@ -102,3 +102,38 @@ My current work investigates the functional role of the gut microbiome in cancer
 - **2026** — Updated this website to better reflect my current research in microbiome systems biology.
 
 - **2024** — Began work on community-scale metabolic modelling of microbiome members at Melbourne Integrative Genomics.
+
+---
+
+## Featured Publications
+
+<div class="publication-grid">
+
+  <div class="publication-card">
+    <h3>SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127<sup>+</sup> CD8<sup>+</sup> T cell immunity against melanoma</h3>
+
+  <p><strong>Immunity</strong> (Accepted)</p>
+
+  <p>
+  Genome-scale metabolic modelling revealed how microbial short-chain fatty acid production enhances anti-tumour immunity, providing mechanistic insight into microbiome influences on cancer immunotherapy.
+  </p>
+
+  <a href="/publications/">Read more →</a>
+
+  </div>
+
+  <div class="publication-card">
+
+  <h3>RNA-seq sheds light on “who is doing what” in the coral <em>Porites lutea</em></h3>
+
+  <p><strong>Microbiome</strong> (2026)</p>
+
+  <p>
+  Multi-omics analysis resolving microbial functional activity within the coral holobiont, providing insights into host–microbiome interactions under environmental change.
+  </p>
+
+  <a href="/publications/">Read more →</a>
+
+  </div>
+
+</div>
