@@ -112,11 +112,11 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 
   <div class="publication-card">
     <h3>SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127<sup>+</sup> CD8<sup>+</sup> T cell immunity against melanoma</h3>
-    <p><strong>Immunity</strong> — Accepted</p>
+    <p><strong>Immunity</strong> — 2025</p>
     <p>
       Genome-scale metabolic modelling revealed how microbial short-chain fatty acid production enhances anti-tumour immunity, providing mechanistic insight into microbiome influences on cancer immunotherapy.
     </p>
-    <a href="/publications/">Read more →</a>
+    <a href="https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0" target="_blank">Read article →</a>
   </div>
 
   <div class="publication-card">
@@ -137,9 +137,25 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <h2>Latest News</h2>
 
 <ul>
-  <li><strong>2026</strong> — <em>Microbiome</em> paper published on functional metatranscriptomics in coral microbiomes.</li>
-  <li><strong>2025</strong> — Paper accepted in <strong>Immunity</strong> describing microbial short-chain fatty acids and anti-tumour immunity.</li>
-  <li><strong>2024</strong> — Joined the Peter Doherty Institute for Infection and Immunity as a Research Fellow.</li>
+
+<li>
+<strong>2026</strong> — Delivering the <strong>Genome-scale Metabolic Modelling Workshop</strong> (Module IV) at the FISABIO Summer School in Biomedical Research and Public Health, Valencia, Spain.
+<a href="https://fisabio.san.gva.es/es/actualidad/summer-school/modulo-4/" target="_blank">Learn more →</a>
+</li>
+
+<li>
+<strong>2025</strong> — Published in <strong>Immunity</strong>: <em>SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127<sup>+</sup> CD8<sup>+</sup> T cell immunity against melanoma.</em>
+<a href="https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0" target="_blank">Read article →</a>
+</li>
+
+<li>
+<strong>2026</strong> — Published in <strong>Microbiome</strong>: <em>RNA-seq sheds light on “who is doing what” in the coral <em>Porites lutea</em>.</em>
+</li>
+
+<li>
+<strong>2024</strong> — Joined the Peter Doherty Institute for Infection and Immunity as a Research Fellow.
+</li>
+
 </ul>
 
 </section>
