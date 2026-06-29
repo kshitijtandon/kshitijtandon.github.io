@@ -125,7 +125,8 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
     <p>
       Metatranscriptomics analysis resolving microbial functional activity within the coral holobiont, providing insights into host–microbiome interactions under environmental change.
     </p>
-    <a href="https://doi.org/10.1186/s40168-026-02414-9"target="_blank">Read article →</a>
+    <a href="https://doi.org/10.1186/s40168-026-02414-9" 
+    target="_blank">Read article →</a>
   </div>
 
 </div>
@@ -142,14 +143,17 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <strong>2026</strong> — Delivering the <strong>Genome-scale Metabolic Modelling Workshop</strong> (Module IV) at the FISABIO Summer School in Biomedical Research and Public Health, Valencia, Spain.
 <a href="https://fisabio.san.gva.es/es/actualidad/summer-school/modulo-4/" target="_blank">Learn more →</a>
 </li>
+
 <li>
 <strong>2026</strong> — Published in <strong>Microbiome</strong>: <em>RNA-seq sheds light on “who is doing what” in the coral <em>Porites lutea</em>.</em> 
 <a href="https://doi.org/10.1186/s40168-026-02414-9" target="_blank">Read article →</a>
 </li>
+
 <li>
 <strong>2025</strong> — Published in <strong>Immunity</strong>: <em>SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127<sup>+</sup> CD8<sup>+</sup> T cell immunity against melanoma.</em>
 <a href="https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0" target="_blank">Read article →</a>
 </li>
+
 <li>
 <strong>2024</strong> — Joined the Peter Doherty Institute for Infection and Immunity as a Research Fellow.
 </li>
