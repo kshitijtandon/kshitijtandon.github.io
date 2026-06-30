@@ -33,11 +33,11 @@ Understanding why only a subset of cancer patients respond to immunotherapy is o
 
 <h4>Research Areas</h4>
 <div class="tag-group">
-  <span>Gut microbiome</span>
-  <span>Cancer immunotherapy</span>
-  <span>Host–microbiome interactions</span>
-  <span>Short-chain fatty acids (SCFAs)</span>
-  <span>Functional microbiome profiling</span>
+  <span class="tag">Gut microbiome</span>
+  <span class="tag">Cancer immunotherapy</span>
+  <span class="tag">Host–microbiome interactions</span>
+  <span class="tag">Short-chain fatty acids (SCFAs)</span>
+  <span class="tag">Functional microbiome profiling</span>
 </div>
 
 ### Featured publications
