@@ -221,6 +221,7 @@ footer {
 }
 
 /* ---------- Research Tags ---------- */
+
 .research-tags {
   display: flex;
   flex-wrap: wrap;
@@ -228,7 +229,8 @@ footer {
   margin: 1rem 0 1.8rem 0;
 }
 
-.research-tags span {
+.research-tags span,
+.research-tags .tag {
   display: inline-block;
   padding: 0.45rem 0.9rem;
   border-radius: 999px;
@@ -239,7 +241,8 @@ footer {
   font-weight: 600;
 }
 
-.research-tags span:hover {
+.research-tags span:hover,
+.research-tags .tag:hover {
   background: #154c52;
   color: #ffffff;
   border-color: #154c52;

@@ -32,7 +32,7 @@ Modern microbiome studies routinely identify *which microorganisms are present*,
 Understanding why only a subset of cancer patients respond to immunotherapy is one of the major challenges in cancer biology. My current research investigates how the **gut microbiome influences anti-tumour immunity** through microbial metabolism, with a particular focus on microbial metabolites, genome-scale metabolic models, and community metabolism.
 
 <h4>Research Areas</h4>
-<div class="tag-group">
+<div class="research-tags">
   <span class="tag">Gut microbiome</span>
   <span class="tag">Cancer immunotherapy</span>
   <span class="tag">Host–microbiome interactions</span>
@@ -57,7 +57,7 @@ Understanding why only a subset of cancer patients respond to immunotherapy is o
 Genome-scale metabolic models provide a mechanistic framework for understanding microbial function beyond taxonomic composition. My research develops computational workflows that reconstruct metabolic models from metagenome-assembled genomes (MAGs) and uses community metabolic modelling to predict metabolite production, nutrient exchange, and host-associated functions.
 
 <h4>Methodological Expertise</h4>
-<div class="tag-group">
+<div class="research-tags">
 <span class="tag">Genome-scale metabolic models</span>
 <span class="tag">Community metabolic modelling</span>
 <span class="tag">Constraint-based modelling</span>
@@ -89,7 +89,7 @@ Genome-scale metabolic models provide a mechanistic framework for understanding 
 My doctoral and postdoctoral research focused on coral-associated microbial communities and their functional roles in coral health and resilience. Using comparative genomics, metagenomics, metatranscriptomics, and systems biology, I investigated microbial symbioses, nutrient cycling, and functional interactions within coral holobionts.
 
 <h4>Research Areas</h4>
-<div class="tag-group">
+<div class="research-tags">
 <span class="tag">Coral holobionts</span>
 <span class="tag">Coral microbiomes</span>
 <span class="tag">Comparative genomics</span>
