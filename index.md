@@ -127,7 +127,9 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
     </p>
     <a href="https://doi.org/10.1186/s40168-026-02414-9" 
     target="_blank">Read article →</a>
+    <a href = "https://communities.springernature.com/posts/beyond-who-is-there-uncovering-active-functions-in-the-coral-holobiont?channel_id=behind-the-paper" target ="_blank">Read blog →</a>
   </div>
+  
 
 </div>
 
