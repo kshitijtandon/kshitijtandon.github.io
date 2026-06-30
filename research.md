@@ -44,7 +44,7 @@ Understanding why only a subset of cancer patients respond to immunotherapy is o
 
 - **SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127⁺ CD8⁺ T cell immunity against melanoma.** *Immunity* (2025). **[Read article](https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0)**
 
-➡️ **More publications:** [/publications/](/publications/)
+➡️ **More publications:** [publications](/publications/)
 
 ---
 
@@ -105,7 +105,7 @@ My doctoral and postdoctoral research focused on coral-associated microbial comm
 
 - **Comparative genomics: Dominant coral bacterium *Endozoicomonas acroporae* metabolizes DMSP.** *The ISME Journal* (2020). **[Read article](https://academic.oup.com/ismej/article/14/5/1290/7475022)**
 
-➡️ **More publications:** [/publications/](publications)
+➡️ **More publications:** [publications](/publications/)
 
 ---
 
