@@ -28,7 +28,6 @@ Modern microbiome studies routinely identify *which microorganisms are present*,
 <p align="center">
 <img src="/img/research/human_microbiome.png" width="600">
 </p>
-
 Understanding why only a subset of cancer patients respond to immunotherapy is one of the major challenges in cancer biology. My current research investigates how the **gut microbiome influences anti-tumour immunity** through microbial metabolism, with a particular focus on microbial metabolites, genome-scale metabolic models, and community metabolism.
 
 <h4>Research Areas</h4>
@@ -53,7 +52,6 @@ Understanding why only a subset of cancer patients respond to immunotherapy is o
 <p align="center">
 <img src="/img/research/metabolic_modelling.png" width="600">
 </p>
-
 Genome-scale metabolic models provide a mechanistic framework for understanding microbial function beyond taxonomic composition. My research develops computational workflows that reconstruct metabolic models from metagenome-assembled genomes (MAGs) and uses community metabolic modelling to predict metabolite production, nutrient exchange, and host-associated functions.
 
 <h4>Methodological Expertise</h4>
