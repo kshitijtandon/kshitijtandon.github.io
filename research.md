@@ -41,8 +41,7 @@ Current research themes include:
 
 ### Featured publications
 
-- **SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127⁺ CD8⁺ T cell immunity against melanoma.** *Immunity* (2025).  
-  **[Read article](https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0)**
+- **SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127⁺ CD8⁺ T cell immunity against melanoma.** *Immunity* (2025). **[Read article](https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0)**
 
 ➡️ **More publications:** [/publications/](/publications/)
 
@@ -73,11 +72,9 @@ Research interests include:
 
 ### Featured publications
 
-- **Integration of metatranscriptomics data improves the predictive capacity of microbial community metabolic models.** *The ISME Journal* (2025).  
-  **[Read article](https://academic.oup.com/ismej/article/19/1/wraf109/8154416)**
+- **Integration of metatranscriptomics data improves the predictive capacity of microbial community metabolic models.** *The ISME Journal* (2025). **[Read article](https://academic.oup.com/ismej/article/19/1/wraf109/8154416)**
 
-- **Comparative analysis of metabolic models of microbial communities reconstructed from automated tools and consensus approaches.** *npj Systems Biology and Applications* (2024).  
-  **[Read article](https://www.nature.com/articles/s41540-024-00384-y)**
+- **Comparative analysis of metabolic models of microbial communities reconstructed from automated tools and consensus approaches.** *npj Systems Biology and Applications* (2024).  **[Read article](https://www.nature.com/articles/s41540-024-00384-y)**
 
 ➡️ **More publications:** [publications](/publications/)
 
@@ -103,16 +100,13 @@ Research themes include:
 
 ### Featured publications
 
-- **RNA-seq sheds light on "who is doing what" in the coral *Porites lutea*.** *Microbiome* (2026).  
-  **[Read article](https://doi.org/10.1186/s40168-026-02414-9)**
+- **RNA-seq sheds light on "who is doing what" in the coral *Porites lutea*.** *Microbiome* (2026). **[Read article](https://doi.org/10.1186/s40168-026-02414-9)**
 
-- **Genomic view of the diversity and functional role of archaea and bacteria in the skeleton of the reef-building corals *Porites lutea* and *Isopora palifera*.** *GigaScience* (2023).  
-  **[Read article]https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac127/6997638)
+- **Genomic view of the diversity and functional role of archaea and bacteria in the skeleton of the reef-building corals *Porites lutea* and *Isopora palifera*.** *GigaScience* (2023). **[Read article](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac127/6997638)**
 
-- **Comparative genomics: Dominant coral bacterium *Endozoicomonas acroporae* metabolizes DMSP.** *The ISME Journal* (2020).  
-  **[Read article](https://academic.oup.com/ismej/article/14/5/1290/7475022)
+- **Comparative genomics: Dominant coral bacterium *Endozoicomonas acroporae* metabolizes DMSP.** *The ISME Journal* (2020). **[Read article](https://academic.oup.com/ismej/article/14/5/1290/7475022)**
 
-➡️ **More publications:** [/publications/](/publications/)
+➡️ **More publications:** [/publications/](publications)
 
 ---
 
