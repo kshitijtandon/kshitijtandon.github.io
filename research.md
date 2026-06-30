@@ -32,12 +32,20 @@ Modern microbiome studies routinely identify *which microorganisms are present*,
 Understanding why only a subset of cancer patients respond to immunotherapy is one of the major challenges in cancer biology. My current research investigates how the **gut microbiome influences anti-tumour immunity** through microbial metabolism, with a particular focus on microbial metabolites, genome-scale metabolic models, and community metabolism.
 
 <h4>Research Areas</h4>
-<div class="tag-group">
-<span class="tag">Gut microbiome</span>
-<span class="tag">Cancer immunotherapy</span>
-<span class="tag">Host–microbiome interactions</span>
-<span class="tag">Short-chain fatty acids (SCFAs)</span>
-<span class="tag">Multi-cohort meta-analysis</span>
+
+<div class="research-tags">
+
+  <span>Gut microbiome</span>
+
+  <span>Cancer immunotherapy</span>
+
+  <span>Host–microbiome interactions</span>
+
+  <span>Short-chain fatty acids (SCFAs)</span>
+
+  <span>Functional microbiome profiling</span>
+
+  <span>Multi-cohort meta-analysis</span>
 
 </div>
 
