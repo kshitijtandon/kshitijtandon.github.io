@@ -9,8 +9,6 @@ permalink: /publications/
 
 My publications span **human microbiome research**, **microbial metabolism**, **genome-scale metabolic modelling**, **functional microbiomics**, and **coral microbial ecology**.
 
-For the most up-to-date citation record, please see my [Google Scholar profile](https://scholar.google.com.au/citations?user=99vbd9cAAAAJ&hl=en).
-
 <div class="research-tags">
   <span>Human microbiome</span>
   <span>Cancer immunotherapy</span>
