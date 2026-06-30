@@ -1,128 +1,148 @@
 ---
 layout: page
 title: Research
-subtitle: Microbiome function, metabolism, and host health
+subtitle: Understanding microbiome function through microbial metabolism and systems biology
 permalink: /research/
 ---
 
 # Research
 
-My research is focused on the **microbiome** and its role in health and disease. I am particularly interested in understanding how microbial communities influence their hosts through metabolic activity, functional interactions, and community-level behaviour.
+I am a computational microbiome researcher interested in understanding **what microbial communities do**, rather than simply **which microorganisms are present**.
 
-Rather than asking only *which microbes are present*, my work asks:
+My research integrates **metagenomics**, **functional microbiome profiling**, **genome-scale metabolic modelling**, and **systems biology** to investigate how microbial metabolism shapes host health, immunity, and environmental resilience.
 
-> **What is the microbiome doing, and how do those functions influence health, disease, and therapeutic response?**
-
-To answer this, I combine **metagenomics**, **functional microbiome profiling**, **genome-scale metabolic modelling**, and **systems biology**.
+Across both human and environmental microbiomes, my work combines microbial genomes, metabolic networks, and multi-omics datasets to uncover functional mechanisms underlying host–microbiome interactions.
 
 ---
 
-## Research Themes
+# Human Microbiome & Cancer Immunotherapy
 
-<div class="research-grid">
+<p align="center">
+<img src="/img/research/human_microbiome.png" width="900">
+</p>
 
-  <div class="research-card">
-    <h3>Microbiome and Human Health</h3>
-    <p>
-      I study how host-associated microbiomes influence disease biology, immune function, and treatment response, with a current focus on the gut microbiome in cancer immunotherapy.
-    </p>
-  </div>
+Understanding why only a subset of cancer patients respond to immunotherapy is one of the major challenges in cancer biology. My current research investigates how the **gut microbiome influences anti-tumour immunity** through microbial metabolism, with a particular focus on microbial metabolites, genome-scale metabolic models, and community metabolism.
 
-  <div class="research-card">
-    <h3>Microbial Metabolism</h3>
-    <p>
-      I investigate how microbial metabolic activities, including short-chain fatty acid production and nutrient interactions, shape host–microbiome relationships.
-    </p>
-  </div>
-
-  <div class="research-card">
-    <h3>Functional Microbiomics</h3>
-    <p>
-      I use metagenomics, functional annotation, and metabolic modelling to move beyond taxonomy and understand the biological functions encoded by microbial communities.
-    </p>
-  </div>
-
-</div>
-
----
-
-## Microbiome and Human Health
-
-The gut microbiome can influence host immunity, metabolism, inflammation, and therapeutic response. My current research investigates how microbiome function contributes to clinical outcomes, particularly in cancer immunotherapy.
-
-This work focuses on identifying microbial functions and metabolic capabilities associated with treatment response, disease progression, and host immune activity.
-
-Key interests include:
+Current research themes include:
 
 - Gut microbiome and cancer immunotherapy
 - Host–microbiome interactions
-- Microbiome-derived metabolites
-- Functional biomarkers of response
-- Translational microbiome research
+- Short-chain fatty acids (SCFAs)
+- Functional microbiome profiling
+- Multi-cohort microbiome meta-analysis
+
+### Featured publications
+
+- **SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127⁺ CD8⁺ T cell immunity against melanoma.** *Immunity* (2025).  
+  **[Read article](https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0)**
+
+➡️ **More publications:** [/publications/](/publications/)
 
 ---
 
-## Microbial Metabolism
+# Genome-scale Metabolic Modelling
 
-Microbial communities are metabolically active ecosystems. Their effects on the host often arise not simply from which organisms are present, but from what they can produce, consume, and exchange.
+<p align="center">
+<img src="/img/research/metabolic_modelling.png" width="900">
+</p>
 
-My research uses genome-scale metabolic modelling and functional microbiome analysis to investigate microbial metabolic potential and community-level metabolic interactions.
+Genome-scale metabolic models provide a mechanistic framework for understanding microbial function beyond taxonomic composition. My research develops computational workflows that reconstruct metabolic models from metagenome-assembled genomes (MAGs) and uses community metabolic modelling to predict metabolite production, nutrient exchange, and host-associated functions.
 
-Key interests include:
+Research interests include:
 
 - Genome-scale metabolic modelling
-- Microbial community metabolism
-- Short-chain fatty acid production
-- Nutrient cross-feeding
-- Functional pathway analysis
+- Community metabolic modelling
+- Functional microbiomics
+- Metagenome-assembled genomes (MAGs)
+- Constraint-based modelling
+- Microbial metabolic networks
+
+### Recent highlights
+
+- Instructor, **Genome-scale Metabolic Modelling Workshop**, FISABIO Summer School (Spain, 2026)
+- Development of microbiome metabolic modelling workflows
+- Multi-cohort functional microbiome analyses
+
+### Featured publications
+
+- **Integration of metatranscriptomics data improves the predictive capacity of microbial community metabolic models.** *The ISME Journal* (2025).  
+  https://academic.oup.com/ismej/article/19/1/wraf109/8154416
+
+- **Comparative analysis of metabolic models of microbial communities reconstructed from automated tools and consensus approaches.** *npj Systems Biology and Applications* (2024).  
+  https://www.nature.com/articles/s41540-024-00384-y
+
+➡️ **More publications:** [/publications/](/publications/)
 
 ---
 
-## Functional Microbiomics
+# Coral Microbiomes & Marine Microbial Ecology
 
-A major goal of my work is to translate microbiome sequencing data into functional and mechanistic insight. I use computational approaches to profile microbial genes, pathways, genomes, and metabolic networks from complex microbiome datasets.
+<p align="center">
+<img src="/img/research/coral_microbiome.png" width="900">
+</p>
 
-This enables a shift from taxonomic descriptions of microbial communities towards functional interpretation of microbiome activity.
+My doctoral and postdoctoral research focused on coral-associated microbial communities and their functional roles in coral health and resilience. Using comparative genomics, metagenomics, metatranscriptomics, and systems biology, I investigated microbial symbioses, nutrient cycling, and functional interactions within coral holobionts.
 
-Key interests include:
+Research themes include:
+
+- Coral holobionts
+- Coral-associated microbiomes
+- Comparative genomics
+- Metatranscriptomics
+- Endozoicomonas biology
+- Ostreobium biology
+- Marine microbial ecology
+
+### Featured publications
+
+- **RNA-seq sheds light on "who is doing what" in the coral *Porites lutea*.** *Microbiome* (2026).  
+  https://doi.org/10.1186/s40168-026-02414-9
+
+- **Genomic view of the diversity and functional role of archaea and bacteria in the skeleton of the reef-building corals *Porites lutea* and *Isopora palifera*.** *GigaScience* (2023).  
+  https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giac127/6997638
+
+- **Comparative genomics: Dominant coral bacterium *Endozoicomonas acroporae* metabolizes DMSP.** *The ISME Journal* (2020).  
+  https://academic.oup.com/ismej/article/14/5/1290/7475022
+
+➡️ **More publications:** [/publications/](/publications/)
+
+---
+
+# Research Philosophy
+
+> **Moving beyond taxonomy towards function.**
+
+Modern microbiome studies routinely identify *which microorganisms are present*, but understanding how microbial communities influence their hosts requires determining **what they are capable of doing**. My research integrates microbial genomes, metabolic networks, and multi-omics datasets to uncover the functional mechanisms underpinning host–microbiome interactions.
+
+---
+
+# Core Expertise
 
 - Metagenomics
-- Functional annotation
-- Metagenome-assembled genomes
-- Microbial pathway analysis
-- Integrative microbiome analysis
-
----
-
-## Current Questions
-
-My research is driven by questions such as:
-
-- How does the microbiome influence host health through microbial metabolism?
-- Which microbial functions are associated with therapeutic response?
-- Can microbiome metabolic capacity explain differences in disease progression?
-- How can microbiome function be translated into clinically relevant biomarkers?
-- How do microbial communities interact metabolically within complex ecosystems?
-
----
-
-## Methods
-
-My work uses a combination of microbiome and computational approaches, including:
-
-- Metagenomic analysis
 - Functional microbiome profiling
 - Genome-scale metabolic modelling
 - Community metabolic modelling
-- Functional annotation
+- Metagenome-assembled genomes (MAGs)
+- Microbial metabolism
+- Multi-omics integration
+- Systems biology
+- Computational biology
 - Statistical modelling
-- Multi-cohort microbiome analysis
-- Reproducible computational workflows
 
 ---
 
-## Collaborations
+# Collaborations
 
-My research is highly collaborative and sits at the interface of microbiome science, immunology, cancer biology, and computational biology.
+My research is highly collaborative and spans microbiology, immunology, systems biology, and computational biology.
 
-I am interested in collaborations that use microbiome data to understand mechanisms of health and disease, particularly where functional microbiome analysis can provide insight beyond taxonomic profiling.
+Current collaborations include:
+
+- The Peter Doherty Institute for Infection and Immunity
+- Melbourne Integrative Genomics
+- Peter MacCallum Cancer Centre
+- FISABIO (Spain)
+- Benaroya Research, USA
+
+---
+
+➡️ **For a complete list of publications, please visit the [Publications](/publications/) page.**
