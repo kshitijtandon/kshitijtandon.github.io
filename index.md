@@ -72,6 +72,35 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 
 </div>
 
+<section class="section-white">
+
+<h2>Core Expertise</h2>
+
+<div class="research-tags">
+
+  <span>Metagenomics</span>
+
+  <span>Functional microbiome profiling</span>
+
+  <span>Genome-scale metabolic modelling</span>
+
+  <span>Community metabolic modelling</span>
+
+  <span>Metagenome-assembled genomes</span>
+
+  <span>Microbial metabolism</span>
+
+  <span>Multi-omics integration</span>
+
+  <span>Systems biology</span>
+
+  <span>Statistical modelling</span>
+
+</div>
+
+</section>
+
+
 </section>
 
 <section class="section-white">
@@ -162,5 +191,36 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 </li>
 
 </ul>
+
+</section>
+
+<section class="section-white">
+
+<h2>Research Collaborations</h2>
+<p>
+I actively collaborate with researchers across microbiome science,
+immunology, systems biology, and computational biology in Australia
+and internationally.
+</p>
+
+<div class="research-tags">
+div class="research-tags">
+
+<a class="tag" href="https://www.doherty.edu.au/people/sammy-bedoui" target="_blank">
+Prof. Sammy Bedoui
+</a>
+
+<a class="tag" href="https://www.petermac.org/expert-finder/details/shahneen-sandhu" target="_blank">
+Prof. Dr. Shahneen Sandhu
+</a>
+
+<a class="tag" href="https://www.hologenomics.org/" target="_blank">
+Dr. Vanessa Marcelino
+</a>
+
+<a class="tag" href="https://www.benaroyaresearch.org/about-bri/faculty-scientific-staff/allyson-byrd" target="_blank">
+Dr. Allyson Byrd
+</a>
+</div>
 
 </section>
