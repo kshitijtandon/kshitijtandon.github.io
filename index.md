@@ -147,6 +147,7 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <li>
 <strong>2026</strong> — Published in <strong>Microbiome</strong>: <em>RNA-seq sheds light on “who is doing what” in the coral <em>Porites lutea</em>.</em> 
 <a href="https://doi.org/10.1186/s40168-026-02414-9" target="_blank">Read article →</a>
+<a href = "https://communities.springernature.com/posts/beyond-who-is-there-uncovering-active-functions-in-the-coral-holobiont?channel_id=behind-the-paper" target ="_blank">Read blog →</a>
 </li>
 
 <li>
