@@ -204,8 +204,6 @@ and internationally.
 </p>
 
 <div class="research-tags">
-div class="research-tags">
-
 <a class="tag" href="https://www.doherty.edu.au/people/sammy-bedoui" target="_blank">
 Prof. Sammy Bedoui
 </a>
