@@ -31,13 +31,15 @@ Modern microbiome studies routinely identify *which microorganisms are present*,
 
 Understanding why only a subset of cancer patients respond to immunotherapy is one of the major challenges in cancer biology. My current research investigates how the **gut microbiome influences anti-tumour immunity** through microbial metabolism, with a particular focus on microbial metabolites, genome-scale metabolic models, and community metabolism.
 
-Current research themes include:
+<h4>Research Areas</h4>
+<div class="tag-group">
+<span class="tag">Gut microbiome</span>
+<span class="tag">Cancer immunotherapy</span>
+<span class="tag">Host–microbiome interactions</span>
+<span class="tag">Short-chain fatty acids (SCFAs)</span>
+<span class="tag">Multi-cohort meta-analysis</span>
 
-- Gut microbiome and cancer immunotherapy
-- Host–microbiome interactions
-- Short-chain fatty acids (SCFAs)
-- Functional microbiome profiling
-- Multi-cohort microbiome meta-analysis
+</div>
 
 ### Featured publications
 
@@ -55,14 +57,13 @@ Current research themes include:
 
 Genome-scale metabolic models provide a mechanistic framework for understanding microbial function beyond taxonomic composition. My research develops computational workflows that reconstruct metabolic models from metagenome-assembled genomes (MAGs) and uses community metabolic modelling to predict metabolite production, nutrient exchange, and host-associated functions.
 
-Research interests include:
-
-- Genome-scale metabolic modelling
-- Community metabolic modelling
-- Functional microbiomics
-- Metagenome-assembled genomes (MAGs)
-- Constraint-based modelling
-- Microbial metabolic networks
+<h4>Methodological Expertise</h4>
+<div class="tag-group">
+<span class="tag">Genome-scale metabolic models</span>
+<span class="tag">Community metabolic modelling</span>
+<span class="tag">Constraint-based modelling</span>
+<span class="tag">Microbial metabolic networks</span>
+</div>
 
 ### Recent highlights
 
@@ -88,15 +89,14 @@ Research interests include:
 
 My doctoral and postdoctoral research focused on coral-associated microbial communities and their functional roles in coral health and resilience. Using comparative genomics, metagenomics, metatranscriptomics, and systems biology, I investigated microbial symbioses, nutrient cycling, and functional interactions within coral holobionts.
 
-Research themes include:
-
-- Coral holobionts
-- Coral-associated microbiomes
-- Comparative genomics
-- Metatranscriptomics
-- Endozoicomonas biology
-- Ostreobium biology
-- Marine microbial ecology
+<h4>Research Areas</h4>
+<div class="tag-group">
+<span class="tag">Coral holobionts</span>
+<span class="tag">Coral microbiomes</span>
+<span class="tag">Comparative genomics</span>
+<span class="tag">Metatranscriptomics</span>
+<span class="tag">Marine microbial ecology</span>
+</div>
 
 ### Featured publications
 
