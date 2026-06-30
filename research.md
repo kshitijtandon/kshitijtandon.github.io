@@ -109,35 +109,4 @@ My doctoral and postdoctoral research focused on coral-associated microbial comm
 
 ---
 
-
-
-# Core Expertise
-
-- Metagenomics
-- Functional microbiome profiling
-- Genome-scale metabolic modelling
-- Community metabolic modelling
-- Metagenome-assembled genomes (MAGs)
-- Microbial metabolism
-- Multi-omics integration
-- Systems biology
-- Computational biology
-- Statistical modelling
-
----
-
-# Collaborations
-
-My research is highly collaborative and spans microbiology, immunology, systems biology, and computational biology.
-
-Current collaborations include:
-
-- The Peter Doherty Institute for Infection and Immunity
-- Melbourne Integrative Genomics
-- Peter MacCallum Cancer Centre
-- FISABIO (Spain)
-- Benaroya Research, USA
-
----
-
 ➡️ **For a complete list of publications, please visit the [Publications](/publications/) page.**
