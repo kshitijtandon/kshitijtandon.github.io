@@ -169,6 +169,9 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <h2>Latest News</h2>
 
 <ul>
+<li>
+<strong>2026</strong> — I will be delivering a seminar at the <a href="https://genomic-cancer-medicine.unimelb.edu.au" target="_blank">CCGEM</a> at the Peter MacCallum Cancer Centre
+</li>
 
 <li>
 <strong>2026</strong> — Delivering the <strong>Genome-scale Metabolic Modelling Workshop</strong> (Module IV) at the FISABIO Summer School in Biomedical Research and Public Health, Valencia, Spain.
