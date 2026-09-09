@@ -140,7 +140,7 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <div class="publication-grid">
 
   <div class="publication-card">
-    <h3>Idenitfying strain-level associations using ANI</h3>
+    <h3>Identifying strain-level associations using ANI via StrainSpy in metagenomics data</h3>
     <p><strong>Preprint</strong> — 2026</p>
     <p>
       Accurate detection of metagenomic strain-level associations using average nucleotide identity with StrainSpy
