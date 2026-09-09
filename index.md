@@ -12,7 +12,7 @@ subtitle: Senior Research Fellow | The Peter Doherty Institute for Infection and
 
   <p class="home-role">
 
-    <strong>Research Fellow</strong><br>
+    <strong>Senior Research Fellow</strong><br>
 
     The Peter Doherty Institute for Infection and Immunity<br>
 
