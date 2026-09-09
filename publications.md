@@ -5,8 +5,6 @@ subtitle: Peer-reviewed publications and scholarly outputs
 permalink: /publications/
 ---
 
-# Publications
-
 My publications span **human microbiome research**, **microbial metabolism**, **genome-scale metabolic modelling**, **functional microbiomics**, and **coral microbial ecology**.
 
 <div class="research-tags">
