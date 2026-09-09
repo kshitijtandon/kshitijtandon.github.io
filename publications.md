@@ -20,7 +20,7 @@ My publications span **human microbiome research**, **microbial metabolism**, **
 
 ---
 
-## Complete Publication List
+## Recent Publications
 
 ### 2026
 
