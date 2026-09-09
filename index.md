@@ -140,6 +140,15 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <div class="publication-grid">
 
   <div class="publication-card">
+    <h3>Idenitfying strain-level associations using ANI</h3>
+    <p><strong>Preprint</strong> — 2026</p>
+    <p>
+      Accurate detection of metagenomic strain-level associations using average nucleotide identity with StrainSpy
+    </p>
+    <a href="https://www.biorxiv.org/content/10.64898/2026.08.30.748153v1" target="_blank">Read article →</a>
+  </div>
+
+  <div class="publication-card">
     <h3>SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127<sup>+</sup> CD8<sup>+</sup> T cell immunity against melanoma</h3>
     <p><strong>Immunity</strong> — 2025</p>
     <p>
@@ -148,16 +157,7 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
     <a href="https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0" target="_blank">Read article →</a>
   </div>
 
-  <div class="publication-card">
-    <h3>RNA-seq sheds light on “who is doing what” in the coral <em>Porites lutea</em></h3>
-    <p><strong>Microbiome</strong> — 2026</p>
-    <p>
-      Metatranscriptomics analysis resolving microbial functional activity within the coral holobiont, providing insights into host–microbiome interactions under environmental change.
-    </p>
-    <a href="https://doi.org/10.1186/s40168-026-02414-9" 
-    target="_blank">Read article →</a>
-    <a href = "https://communities.springernature.com/posts/beyond-who-is-there-uncovering-active-functions-in-the-coral-holobiont?channel_id=behind-the-paper" target ="_blank">Read blog →</a>
-  </div>
+ 
   
 
 </div>
