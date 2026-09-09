@@ -176,7 +176,8 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 Collaborative Centre for Genomic Cancer Medicine
 </a>
 at the Peter MacCallum Cancer Centre.
-For more details and the seminar flyer, please check the <strong>Outreach tab</strong>.
+View the seminar details and flyer on the
+<a href="/outreach/"><strong>Outreach page →</strong></a>
 </li>
 
 <li>
@@ -185,7 +186,15 @@ For more details and the seminar flyer, please check the <strong>Outreach tab</s
 Institute of Agrochemistry and Food Technology (IATA)-CSIC
 </a>
 at the University of Valencia, Valencia, Spain.
-For more details please check the <strong>Outreach tab</strong>.
+For more details please check the <li>
+<strong>2026</strong> — I will deliver a seminar at the
+<a href="https://genomic-cancer-medicine.unimelb.edu.au" target="_blank">
+Collaborative Centre for Genomic Cancer Medicine
+</a>
+at the Peter MacCallum Cancer Centre.
+View the seminar details and flyer on the
+<a href="/outreach/"><strong>Outreach page →</strong></a>
+</li><strong>Outreach page</strong>.
 </li>
 
 <li>
