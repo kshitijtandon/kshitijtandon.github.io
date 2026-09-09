@@ -169,24 +169,42 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <h2>Latest News</h2>
 
 <ul>
+
 <li>
-<strong>2026</strong> — I will be delivering a seminar at the <a href="https://genomic-cancer-medicine.unimelb.edu.au" target="_blank">CCGEM</a> at the Peter MacCallum Cancer Centre
+<strong>2026</strong> — I will deliver a seminar at the
+<a href="https://genomic-cancer-medicine.unimelb.edu.au" target="_blank">
+Collaborative Centre for Genomic Cancer Medicine
+</a>
+at the Peter MacCallum Cancer Centre.
+For more details and the seminar flyer, please check the <strong>Outreach tab</strong>.
 </li>
 
 <li>
-<strong>2026</strong> — Delivering the <strong>Genome-scale Metabolic Modelling Workshop</strong> (Module IV) at the FISABIO Summer School in Biomedical Research and Public Health, Valencia, Spain.
-<a href="https://fisabio.san.gva.es/es/actualidad/summer-school/modulo-4/" target="_blank">Learn more →</a>
+<strong>2026</strong> — I will deliver the
+<strong>Genome-scale Metabolic Modelling Workshop</strong> (Module IV)
+at the FISABIO Summer School in Biomedical Research and Public Health in Valencia, Spain.
+<a href="https://fisabio.san.gva.es/es/actualidad/summer-school/modulo-4/" target="_blank">
+Learn more →
+</a>
 </li>
 
 <li>
-<strong>2026</strong> — Published in <strong>Microbiome</strong>: <em>RNA-seq sheds light on “who is doing what” in the coral <em>Porites lutea</em>.</em> 
-<a href="https://doi.org/10.1186/s40168-026-02414-9" target="_blank">Read article →</a>
-<a href = "https://communities.springernature.com/posts/beyond-who-is-there-uncovering-active-functions-in-the-coral-holobiont?channel_id=behind-the-paper" target ="_blank">Read blog →</a>
+<strong>2026</strong> — Published in <strong>Microbiome</strong>:
+<em>RNA-seq sheds light on “who is doing what” in the coral <em>Porites lutea</em>.</em>
+<a href="https://doi.org/10.1186/s40168-026-02414-9" target="_blank">
+Read article →
+</a>
+<a href="https://communities.springernature.com/posts/beyond-who-is-there-uncovering-active-functions-in-the-coral-holobiont?channel_id=behind-the-paper" target="_blank">
+Read behind-the-paper blog →
+</a>
 </li>
 
 <li>
-<strong>2025</strong> — Published in <strong>Immunity</strong>: <em>SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127<sup>+</sup> CD8<sup>+</sup> T cell immunity against melanoma.</em>
-<a href="https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0" target="_blank">Read article →</a>
+<strong>2025</strong> — Published in <strong>Immunity</strong>:
+<em>SCFA-producing capabilities of the gut microbiota enhance tumor-specific CD127<sup>+</sup> CD8<sup>+</sup> T cell immunity against melanoma.</em>
+<a href="https://www.cell.com/immunity/abstract/S1074-7613(25)00434-0" target="_blank">
+Read article →
+</a>
 </li>
 
 <li>
@@ -200,19 +218,21 @@ subtitle: Research Fellow | The Peter Doherty Institute for Infection and Immuni
 <section class="section-white">
 
 <h2>Research Collaborations</h2>
+
 <p>
-I actively collaborate with researchers across microbiome science,
-immunology, systems biology, and computational biology in Australia
+I collaborate with researchers across microbiome science, immunology,
+systems biology, cancer research, and computational biology in Australia
 and internationally.
 </p>
 
 <div class="research-tags">
+
 <a class="tag" href="https://www.doherty.edu.au/people/sammy-bedoui" target="_blank">
 Prof. Sammy Bedoui
 </a>
 
 <a class="tag" href="https://www.petermac.org/expert-finder/details/shahneen-sandhu" target="_blank">
-Prof. Dr. Shahneen Sandhu
+Prof. Shahneen Sandhu
 </a>
 
 <a class="tag" href="https://www.hologenomics.org/" target="_blank">
@@ -222,6 +242,7 @@ Dr. Vanessa Marcelino
 <a class="tag" href="https://www.benaroyaresearch.org/about-bri/faculty-scientific-staff/allyson-byrd" target="_blank">
 Dr. Allyson Byrd
 </a>
+
 </div>
 
 </section>
