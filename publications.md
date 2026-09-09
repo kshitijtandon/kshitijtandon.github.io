@@ -25,7 +25,8 @@ My publications span **human microbiome research**, **microbial metabolism**, **
 ### 2026
 
 - Mallawaarachchi, S., **Tandon, K.**, Rajan, N., et al. **Accurate detection of metagenomic strain-level associations using average nucleotide identity with StrainSpy**. 
-*Preprint*.[Read article](https://www.biorxiv.org/content/10.64898/2026.08.30.748153v1)
+  *Preprint*.
+  [Read article](https://www.biorxiv.org/content/10.64898/2026.08.30.748153v1)
 
 - **Tandon, K.**, Hu, J., Ricci, F. et al.  
   **RNA-seq sheds light on “who is doing what” in the coral *Porites lutea*.**  
