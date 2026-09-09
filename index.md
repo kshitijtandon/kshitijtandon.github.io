@@ -180,7 +180,16 @@ For more details and the seminar flyer, please check the <strong>Outreach tab</s
 </li>
 
 <li>
-<strong>2026</strong> — I will deliver the
+<strong>2026</strong> — I delivered an invited talk at 
+<a href="https://iata.csic.es" target="_blank">
+Institute of Agrochemistry and Food Technology (IATA)-CSIC
+</a>
+at the University of Valencia, Valencia, Spain.
+For more details please check the <strong>Outreach tab</strong>.
+</li>
+
+<li>
+<strong>2026</strong> — I delivered the
 <strong>Genome-scale Metabolic Modelling Workshop</strong> (Module IV)
 at the FISABIO Summer School in Biomedical Research and Public Health in Valencia, Spain.
 <a href="https://fisabio.san.gva.es/es/actualidad/summer-school/modulo-4/" target="_blank">
