@@ -249,3 +249,96 @@ footer {
   transition: all 0.2s ease;
   cursor: default;
 }
+
+/* ---------- Outreach page ---------- */
+
+.outreach-intro {
+  max-width: 760px;
+  margin: 0 auto 2.8rem auto;
+  text-align: center;
+  font-size: 1.08rem;
+  line-height: 1.7;
+  color: #444444;
+}
+
+.outreach-list {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.outreach-card {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: #ffffff;
+  border: 1px solid #e5e8e8;
+  border-radius: 16px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.045);
+}
+
+.outreach-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 9px 26px rgba(0, 0, 0, 0.075);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.outreach-image {
+  display: block;
+  width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+  margin: 0 auto 1.4rem auto;
+  border-radius: 12px;
+}
+
+.outreach-meta {
+  margin-bottom: 0.5rem;
+  color: #137a8a;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.outreach-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.9rem;
+  color: #154c52;
+  font-size: 1.6rem;
+  line-height: 1.3;
+}
+
+.outreach-card p {
+  margin-bottom: 1rem;
+  color: #444444;
+  line-height: 1.7;
+}
+
+.outreach-link {
+  display: inline-block;
+  margin-top: 0.2rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.outreach-link:hover {
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .outreach-intro {
+    text-align: left;
+    margin-bottom: 2rem;
+  }
+
+  .outreach-card {
+    padding: 1.1rem;
+  }
+
+  .outreach-card h2 {
+    font-size: 1.35rem;
+  }
+
+  .outreach-image {
+    max-height: 380px;
+  }
+}
