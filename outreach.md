@@ -19,4 +19,10 @@ Dive into the depths of the ocean where we explored the mesmerizing world of mar
 * [Talk to a Scientist](@TTASIndia)
 * [India BioSciences](#IndiaBioSciences)
 
+
+<figure>
+	<p align='center'>
+		<img src="../img/outreach/CCGCM.png" alt='Collaborative Centre for Genomic Cancer Medicine' height="450px">
+	</p>
+</figure>
 ---------
