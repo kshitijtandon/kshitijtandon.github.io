@@ -7,11 +7,14 @@ permalink: /software/
 
 <div class="software-intro">
   <p>
-    I develop and contribute to computational tools and workflows for
-    microbiome analysis, strain-resolved metagenomics, and genome-scale
-    metabolic modelling.
+    I develop and contribute to computational tools, analysis workflows,
+    and reproducible resources spanning microbiome research,
+    strain-resolved metagenomics, and genome-scale metabolic modelling.
   </p>
 </div>
+
+
+<h2>Software & Computational Tools</h2>
 
 <div class="software-grid">
 
@@ -27,15 +30,19 @@ permalink: /software/
     <h2>StrainSpy</h2>
 
     <div class="software-team">
-      <span><strong>Lead Developer:</strong> Sudaraka Mallawaarachchi</span>
-      <span><strong>Contribution:</strong> Contributer</span>
+      <span>
+        <strong>Lead Developer:</strong> Sudaraka Mallawaarachchi
+      </span>
+
+      <span>
+        <strong>Contribution:</strong> Contributor
+      </span>
     </div>
 
     <p>
       StrainSpy is a statistical framework for identifying strain-level
       associations in metagenomic studies using containment average nucleotide
-      identity (ANI). It supports a range of study designs, including
-      longitudinal and multi-cohort analyses.
+      identity (ANI), with support for longitudinal and multi-cohort study designs.
     </p>
 
     <div class="software-links">
@@ -68,8 +75,13 @@ permalink: /software/
     <h2>IMIC</h2>
 
     <div class="software-team">
-      <span><strong>Lead Developer:</strong> Yunli Eric Hsieh</span>
-      <span><strong>Contribution:</strong> Co-developer</span>
+      <span>
+        <strong>Lead Developer:</strong> Yunli Eric Hsieh
+      </span>
+
+      <span>
+        <strong>Contribution:</strong> Co-developer
+      </span>
     </div>
 
     <p>
@@ -105,23 +117,23 @@ permalink: /software/
       Computational Workflow · Microbial Metabolic Modelling
     </div>
 
-    <h2>Consensus metabolic model reconstruction</h2>
+    <h2>Consensus Metabolic Model Reconstruction</h2>
 
     <div class="software-team">
-      <span><strong>Lead Developer:</strong> Yunli Eric Hsieh</span>
-      <span><strong>Contribution:</strong> Contributor</span>
+      <span>
+        <strong>Lead Developer:</strong> Yunli Eric Hsieh
+      </span>
+
+      <span>
+        <strong>Contribution:</strong> Contributor
+      </span>
     </div>
 
     <p>
-      A computational workflow for reconstructing and comparing microbial
+      A computational framework for reconstructing and comparing microbial
       genome-scale metabolic models generated using CarveMe, gapseq, KBase,
-      and consensus reconstruction approaches.
-    </p>
-
-    <p>
-      The workflow evaluates how model reconstruction strategy influences
-      metabolic network structure, functional potential, and predicted
-      metabolite exchange within microbial communities.
+      and consensus approaches, and assessing how reconstruction strategy
+      influences downstream metabolic predictions.
     </p>
 
     <div class="software-links">
@@ -142,12 +154,12 @@ permalink: /software/
 
   </article>
 
-
 </div>
 
-<<h2>Public Code & Reproducible Workflows</h2>
 
-<p>
+<h2>Public Code & Reproducible Workflows</h2>
+
+<p class="software-section-intro">
   I also make analysis workflows, teaching resources, and code supporting
   published research openly available through GitHub.
 </p>
@@ -168,7 +180,7 @@ permalink: /software/
     <p>
       Hands-on workshop materials for reconstructing and evaluating
       genome-scale metabolic models from bacterial genomes using gapseq,
-      COBRApy, and MEMOTE, with an interactive Google Colab tutorial.
+      COBRApy, and MEMOTE, including an interactive Google Colab tutorial.
     </p>
 
     <div class="software-links">
@@ -190,7 +202,7 @@ permalink: /software/
       Reproducible Research · Metatranscriptomics
     </div>
 
-    <h3>Porites lutea Metatranscriptome</h3>
+    <h3><em>Porites lutea</em> Metatranscriptome</h3>
 
     <p>
       Analysis and figure-generation code supporting our study of
@@ -199,6 +211,7 @@ permalink: /software/
     </p>
 
     <div class="software-links">
+
       <a
         href="https://github.com/kshitijtandon/Plutea_metatranscriptome"
         target="_blank">
@@ -210,6 +223,7 @@ permalink: /software/
         target="_blank">
         Publication →
       </a>
+
     </div>
 
   </article>
@@ -232,11 +246,13 @@ permalink: /software/
     </p>
 
     <div class="software-links">
+
       <a
         href="https://github.com/kshitijtandon/Bacterial-and-archaeal-MAGs"
         target="_blank">
         GitHub →
       </a>
+
     </div>
 
   </article>
@@ -250,20 +266,22 @@ permalink: /software/
       Reproducible Research · Microbiome Ecology
     </div>
 
-    <h3>Endozoicomonas Species Dynamics</h3>
+    <h3><em>Endozoicomonas</em> Species Dynamics</h3>
 
     <p>
       Analysis and figure-generation workflows investigating how dominant
-      coral-associated <em>Endozoicomonas</em> species respond differently
-      to environmental change.
+      coral-associated <em>Endozoicomonas</em> species respond to
+      environmental change.
     </p>
 
     <div class="software-links">
+
       <a
         href="https://github.com/kshitijtandon/Endozoicomonas-species-dynamics"
         target="_blank">
         GitHub →
       </a>
+
     </div>
 
   </article>
