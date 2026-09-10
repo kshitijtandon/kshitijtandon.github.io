@@ -144,3 +144,129 @@ permalink: /software/
 
 
 </div>
+
+<<h2>Public Code & Reproducible Workflows</h2>
+
+<p>
+  I also make analysis workflows, teaching resources, and code supporting
+  published research openly available through GitHub.
+</p>
+
+<div class="software-grid">
+
+
+  <!-- FISABIO workshop -->
+
+  <article class="software-card">
+
+    <div class="software-meta">
+      Teaching Resource · Genome-scale Metabolic Modelling
+    </div>
+
+    <h3>FISABIO gapseq Workshop</h3>
+
+    <p>
+      Hands-on workshop materials for reconstructing and evaluating
+      genome-scale metabolic models from bacterial genomes using gapseq,
+      COBRApy, and MEMOTE, with an interactive Google Colab tutorial.
+    </p>
+
+    <div class="software-links">
+      <a
+        href="https://github.com/kshitijtandon/fisabio-gapseq-workshop"
+        target="_blank">
+        GitHub →
+      </a>
+    </div>
+
+  </article>
+
+
+  <!-- Porites metatranscriptome -->
+
+  <article class="software-card">
+
+    <div class="software-meta">
+      Reproducible Research · Metatranscriptomics
+    </div>
+
+    <h3>Porites lutea Metatranscriptome</h3>
+
+    <p>
+      Analysis and figure-generation code supporting our study of
+      transcriptionally active microbial and micro-eukaryotic communities
+      across compartments of the coral <em>Porites lutea</em>.
+    </p>
+
+    <div class="software-links">
+      <a
+        href="https://github.com/kshitijtandon/Plutea_metatranscriptome"
+        target="_blank">
+        GitHub →
+      </a>
+
+      <a
+        href="https://doi.org/10.1186/s40168-026-02414-9"
+        target="_blank">
+        Publication →
+      </a>
+    </div>
+
+  </article>
+
+
+  <!-- Coral MAGs -->
+
+  <article class="software-card">
+
+    <div class="software-meta">
+      Reproducible Research · Metagenomics
+    </div>
+
+    <h3>Coral Bacterial & Archaeal MAGs</h3>
+
+    <p>
+      Analysis scripts supporting the reconstruction and functional
+      characterisation of bacterial and archaeal metagenome-assembled genomes
+      from the skeletons of reef-building corals.
+    </p>
+
+    <div class="software-links">
+      <a
+        href="https://github.com/kshitijtandon/Bacterial-and-archaeal-MAGs"
+        target="_blank">
+        GitHub →
+      </a>
+    </div>
+
+  </article>
+
+
+  <!-- Endozoicomonas -->
+
+  <article class="software-card">
+
+    <div class="software-meta">
+      Reproducible Research · Microbiome Ecology
+    </div>
+
+    <h3>Endozoicomonas Species Dynamics</h3>
+
+    <p>
+      Analysis and figure-generation workflows investigating how dominant
+      coral-associated <em>Endozoicomonas</em> species respond differently
+      to environmental change.
+    </p>
+
+    <div class="software-links">
+      <a
+        href="https://github.com/kshitijtandon/Endozoicomonas-species-dynamics"
+        target="_blank">
+        GitHub →
+      </a>
+    </div>
+
+  </article>
+
+
+</div>
