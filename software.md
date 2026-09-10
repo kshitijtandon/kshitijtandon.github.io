@@ -5,8 +5,142 @@ subtitle: Tools and computational workflows
 permalink: /software/
 ---
 
-# Software
+<div class="software-intro">
+  <p>
+    I develop and contribute to computational tools and workflows for
+    microbiome analysis, strain-resolved metagenomics, and genome-scale
+    metabolic modelling.
+  </p>
+</div>
 
-This page will highlight software, code, and computational workflows related to my research.
+<div class="software-grid">
 
-More details coming soon.
+
+  <!-- StrainSpy -->
+
+  <article class="software-card">
+
+    <div class="software-meta">
+      R Package · Strain-resolved Metagenomics
+    </div>
+
+    <h2>StrainSpy</h2>
+
+    <div class="software-team">
+      <span><strong>Lead Developer:</strong> Sudaraka Mallawaarachchi</span>
+      <span><strong>Contribution:</strong> Contributer</span>
+    </div>
+
+    <p>
+      StrainSpy is a statistical framework for identifying strain-level
+      associations in metagenomic studies using containment average nucleotide
+      identity (ANI). It supports a range of study designs, including
+      longitudinal and multi-cohort analyses.
+    </p>
+
+    <div class="software-links">
+
+      <a
+        href="https://github.com/gtonkinhill/strainspy"
+        target="_blank">
+        GitHub →
+      </a>
+
+      <a
+        href="https://www.biorxiv.org/content/10.64898/2026.08.30.748153v1"
+        target="_blank">
+        Preprint →
+      </a>
+
+    </div>
+
+  </article>
+
+
+  <!-- IMIC -->
+
+  <article class="software-card">
+
+    <div class="software-meta">
+      Genome-scale Metabolic Modelling
+    </div>
+
+    <h2>IMIC</h2>
+
+    <div class="software-team">
+      <span><strong>Lead Developer:</strong> Yunli Eric Hsieh</span>
+      <span><strong>Contribution:</strong> Co-developer</span>
+    </div>
+
+    <p>
+      IMIC integrates metatranscriptomic information into microbial community
+      genome-scale metabolic models, enabling condition-specific metabolic
+      predictions informed by microbial gene expression.
+    </p>
+
+    <div class="software-links">
+
+      <a
+        href="https://github.com/YunliEricHsieh/IMIC"
+        target="_blank">
+        GitHub →
+      </a>
+
+      <a
+        href="https://doi.org/10.1093/ismejo/wraf109"
+        target="_blank">
+        Publication →
+      </a>
+
+    </div>
+
+  </article>
+
+
+  <!-- Consensus metabolic modelling -->
+
+  <article class="software-card">
+
+    <div class="software-meta">
+      Computational Workflow · Microbial Metabolic Modelling
+    </div>
+
+    <h2>Consensus metabolic model reconstruction</h2>
+
+    <div class="software-team">
+      <span><strong>Lead Developer:</strong> Yunli Eric Hsieh</span>
+      <span><strong>Contribution:</strong> Contributor</span>
+    </div>
+
+    <p>
+      A computational workflow for reconstructing and comparing microbial
+      genome-scale metabolic models generated using CarveMe, gapseq, KBase,
+      and consensus reconstruction approaches.
+    </p>
+
+    <p>
+      The workflow evaluates how model reconstruction strategy influences
+      metabolic network structure, functional potential, and predicted
+      metabolite exchange within microbial communities.
+    </p>
+
+    <div class="software-links">
+
+      <a
+        href="https://zenodo.org/records/10289699"
+        target="_blank">
+        Code & Data →
+      </a>
+
+      <a
+        href="https://www.nature.com/articles/s41540-024-00384-y"
+        target="_blank">
+        Publication →
+      </a>
+
+    </div>
+
+  </article>
+
+
+</div>

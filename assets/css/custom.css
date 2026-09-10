@@ -342,3 +342,26 @@ footer {
     max-height: 380px;
   }
 }
+
+/* ---------- Software team / contribution ---------- */
+
+.software-team {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.2rem 0 1rem 0;
+}
+
+.software-team span {
+  display: inline-block;
+  padding: 0.32rem 0.7rem;
+  border-radius: 999px;
+  background: #eef7f8;
+  border: 1px solid #cfe3e6;
+  color: #154c52;
+  font-size: 0.8rem;
+}
+
+.software-team strong {
+  font-weight: 700;
+}
